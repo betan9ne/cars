@@ -1,5 +1,4 @@
-{
-  "cars": [
+
     {
       "id": "000000",
       "name": "Ferrari 458",
@@ -18,5 +17,4 @@
       "engine" : "male",
       "top" : "male"
     }
-  ]
-}
+
