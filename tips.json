@@ -1,0 +1,42 @@
+[
+  {
+    "id":1,
+    "tip": "Observe your surroundings before using an ATM. If the machine is obstructed from view or poorly lit, visit another ATM"
+  },
+  {
+    "id":2,
+    "tip": "Shield the screen and keyboard so anyone waiting to use the ATM cannot see you enter your PIN or transaction amount."
+  },
+  {
+    "id":3,
+    "tip": "Put your cash, card and receipt away immediately. Count your money later, and always keep your receipt."
+  },
+  {
+    "id":4,
+    "tip": "If you see anyone or anything suspicious, cancel your transaction and leave immediately. If anyone follows you after making a transaction, go to a crowded, well-lit area and call the police."
+  },
+  {
+    "id":5,
+    "tip": "When using an enclosed ATM that requires your card to open the door, avoid letting strangers follow you inside."
+  },
+  {
+    "id":6,
+    "tip": "When using a drive-up ATM, make sure all passenger car doors are locked and windows are up."
+  },
+  {
+    "id":7,
+    "tip": "Do not leave your car unlocked or engine running when you get out to use an ATM."
+  },
+  {
+    "id":8,
+    "tip": "While many ATMs are available 24 hours a day, some may be open only during local business hours. To be on the safe side, plan your withdrawals ahead of time."
+  },
+  {
+    "id":9,
+    "tip": "Check with your financial institution to determine what the daily withdrawal limit is for your account."
+  },
+  {
+    "id":10,
+    "tip": "To help guard against fraud, keep your ATM receipts until you check them against your monthly statement."
+  }
+]
