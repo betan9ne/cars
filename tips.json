@@ -38,5 +38,61 @@
   {
     "id":10,
     "tip": "To help guard against fraud, keep your ATM receipts until you check them against your monthly statement."
+  },
+  {
+    "id": 11,
+    "tip": "Protect your ATM card from damage by keeping it in a safe place"
+  },
+  {
+    "id": 12,
+    "tip": "Don't allow it to bend or be scratched."
+  },
+  {
+    "id": 13,
+    "tip": "Memorize your personal identification number (PIN) - if you must write down your PIN, do not keep it in your wallet, purse, or on the card itself."
+  },
+  {
+    "id":14 ,
+    "tip": "When selecting a PIN, avoid numbers and letters that can be easily identified or associated with you. Do not use your initials, birth date, or telephone number."
+  },
+  {
+    "id": 15,
+    "tip": "In case you lose your card - be sure to know the emergency phone numbers for your financial institution." 
+  },
+  {
+    "id": 16,
+    "tip": "Do not volunteer any personal information when you use your credit card, other than your ID document, which may be requested."
+  },
+  {
+    "id": 17,
+    "tip": "Do not volunteer any personal information when you use your credit card, other than your ID document, which may be requested."
+  },
+  {
+    "id": 18,
+    "tip":"Look around and observe your surroundings - if the machine is poorly lit, or is in a hidden area, use another ATM"
+  },
+  {
+    "id": 19,
+    "tip":"Have your card ready - avoid having to go through your wallet or purse to find your card."
+  },
+  {
+    "id": 20,
+    "tip": "Make sure that anyone waiting to use the ATM after you cannot see you entering your PIN or transaction amount"
+  },
+  {
+    "id": 21,
+    "tip":"Don't count your cash while standing at the ATM - put your cash, card, and receipt away immediately."
+  },
+  {
+    "id": 22,
+    "tip": "Cancel your transaction and leave immediately if you see anything suspicious. Confirm, as soon as possible, with your financial institution that the transaction was canceled. If you are using an indoor ATM that requires your card to open the door, avoid letting anyone come in with you that you do not know."
+  },
+  {
+    "id": 23,
+    "tip":"Lock the car doors and roll up the other windows when you use a drive-through ATM."
+  },
+  {
+    "id": 24,
+    "tip":"Do not leave your receipt behind - take it with you. Compare your ATM receipts with your monthly statement. It is the best way to guard against unauthorized use of your card, and it makes record keeping easier for you."
   }
 ]
