@@ -5789,5 +5789,1079 @@
          "reference" : "ChIJZ-XMN-_rGBkRh3Bbowrv43M",
          "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
          "user_ratings_total" : 4
+      }, {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Great North Road Nakonde Absa Bank Plot 1303/m Muchinga Nakonde ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -9.342129999999999,
+               "lng" : 32.745
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.340820920107278,
+                  "lng" : 32.74629282989272
+               },
+               "southwest" : {
+                  "lat" : -9.343520579892722,
+                  "lng" : 32.74359317010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Nakonde 16",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100121102116248349321\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECV5ZPV2C1ncswarb0i7nu0aCESGtVd90HD9WwX4BR94EkKcgYCmwfxkXuT5Dr9Rd4eGAaOPBSK5WBfSDJKiw-p_OnBMlD1hHWa4yjRLQc8B4QMIbjWoaUEHU2peu2khfd3OdhXjz3b4LRk3DIvjvWm73_HO0xcYIEZM_0RBRty9Fgr",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ57ON-Ro_BxkRPULjilmOqTE",
+         "plus_code" : {
+            "compound_code" : "MP5W+42 Nakonde",
+            "global_code" : "6G2JMP5W+42"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ57ON-Ro_BxkRPULjilmOqTE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "MQG6+QPJ, Nakonde, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -9.3230425,
+               "lng" : 32.761778
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.321708670107279,
+                  "lng" : 32.76318827989272
+               },
+               "southwest" : {
+                  "lat" : -9.324408329892723,
+                  "lng" : 32.76048862010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Barclays Bank - Nakonde",
+         "place_id" : "ChIJPYt3vV8-BxkRUTC-BYeL2cg",
+         "rating" : 0,
+         "reference" : "ChIJPYt3vV8-BxkRUTC-BYeL2cg",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Tunduma Zambia Highway Tunduma TZ, 54100, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -9.3077238,
+               "lng" : 32.7637994
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.306378120107277,
+                  "lng" : 32.76527547989271
+               },
+               "southwest" : {
+                  "lat" : -9.309077779892721,
+                  "lng" : 32.76257582010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "NBC | Atm | Tunduma branch",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ1cTUb2U_BxkRyfUJsxEl-4I",
+         "plus_code" : {
+            "compound_code" : "MQR7+WG Tunduma",
+            "global_code" : "6G2JMQR7+WG"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ1cTUb2U_BxkRyfUJsxEl-4I",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },    {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R99X+85P, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1816622,
+               "lng" : 26.3979487
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18053647010728,
+                  "lng" : 26.39937577989272
+               },
+               "southwest" : {
+                  "lat" : -12.18323612989272,
+                  "lng" : 26.39667612010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Bank FNB ATM",
+         "place_id" : "ChIJl9q3CFnVbxkRXZZF2NT8Pzs",
+         "rating" : 0,
+         "reference" : "ChIJl9q3CFnVbxkRXZZF2NT8Pzs",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "City Mall Solwezi North Western Solwezi ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.182055,
+               "lng" : 26.399071
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18069677010728,
+                  "lng" : 26.40042732989272
+               },
+               "southwest" : {
+                  "lat" : -12.18339642989272,
+                  "lng" : 26.39772767010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Solwezi 41",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118236771953538382660\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDzZQNwdm4aJftm6SLiUFQO3HpILb2SrbiKjtLUOxoUZLvIxojPJXpZLEpoqLsCGp44Y1h-gGvxR8BzPtz00QnAN1kdgwtMoVgP3OgLULedXG7eaTsrEVzH06KQpGRewlekfg3Eg8938UyrNsZ-i4uRqFJr34UjjBQoKmCagSbkwIPa",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJP-Gq6BnVbxkRwSmrbtErhPQ",
+         "plus_code" : {
+            "compound_code" : "R99X+5J Solwezi",
+            "global_code" : "5GV8R99X+5J"
+         },
+         "rating" : 0,
+         "reference" : "ChIJP-Gq6BnVbxkRwSmrbtErhPQ",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lwenge Road Absa Bank Solwezi Plot 32 North Western Solwezi ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1821817,
+               "lng" : 26.400394
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18072837010728,
+                  "lng" : 26.40175232989272
+               },
+               "southwest" : {
+                  "lat" : -12.18342802989272,
+                  "lng" : 26.39905267010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Solwezi 11",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104131131769137419791\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA36MkYtYW9qVZ3-teFxOV964NgcQY_TBt1SVeuW57nIwIOssf0KXfo9ULP1h7A84uWsMsP5aLWoN25qS6qIo3cg9SxVB1b4gDhKRmY1INhhCvH7wc7d1gOtrhA7wCWPiOYF0Bbk36f6viChP2PRmkrJ0lg57M8OM9VTGr3yRIE3V7d",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJNx8JnF3VbxkRuknX55Lt-WQ",
+         "plus_code" : {
+            "compound_code" : "RC92+45 Solwezi",
+            "global_code" : "5GV8RC92+45"
+         },
+         "rating" : 0,
+         "reference" : "ChIJNx8JnF3VbxkRuknX55Lt-WQ",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Unnamed Road, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1828639,
+               "lng" : 26.4217671
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18166717010728,
+                  "lng" : 26.42312242989272
+               },
+               "southwest" : {
+                  "lat" : -12.18436682989272,
+                  "lng" : 26.42042277010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "ZANACO ATM",
+         "place_id" : "ChIJx5smsOIrbhkRmb4yO5GCQvU",
+         "plus_code" : {
+            "compound_code" : "RC8C+VP Solwezi",
+            "global_code" : "5GV8RC8C+VP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJx5smsOIrbhkRmb4yO5GCQvU",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "RC82+GXH, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1836813,
+               "lng" : 26.4024958
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18230772010728,
+                  "lng" : 26.40400877989272
+               },
+               "southwest" : {
+                  "lat" : -12.18500737989272,
+                  "lng" : 26.40130912010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "zanaco atm",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111802813067068316234\"\u003eAlfred Mulope\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDFHgOd-vvk5ksD1Zx5ieWbCynOK_Io2IZEo_AjXMOkcRzhVfIaREJPzwVU_1YJow69qwI00i_G2cO4AuPbyWURf2wK44PSuNrBWuLtJnHHEy1zX7GIpT5p_vmTVSZAEi9X084R-Tial6fEh9-orDnCGoEr6bIkMlyIlMDxqRq0E-yg",
+               "width" : 3480
+            }
+         ],
+         "place_id" : "ChIJ6-m5cFvVbxkRApW6b52zckM",
+         "rating" : 5,
+         "reference" : "ChIJ6-m5cFvVbxkRApW6b52zckM",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Jaids Complex Independence Avenue, T5, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1826716,
+               "lng" : 26.40207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18143447010728,
+                  "lng" : 26.40339067989272
+               },
+               "southwest" : {
+                  "lat" : -12.18413412989272,
+                  "lng" : 26.40069102010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Stanchart ATM",
+         "place_id" : "ChIJLVQUoenVbxkRneOrwWID99Q",
+         "plus_code" : {
+            "compound_code" : "RC82+WR Solwezi",
+            "global_code" : "5GV8RC82+WR"
+         },
+         "rating" : 0,
+         "reference" : "ChIJLVQUoenVbxkRneOrwWID99Q",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "15841, 10101, T5, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1773427,
+               "lng" : 26.390398
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.17531065,
+                  "lng" : 26.39212777989272
+               },
+               "southwest" : {
+                  "lat" : -12.17802005,
+                  "lng" : 26.38942812010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "FNB ATMs",
+         "place_id" : "ChIJi9-t7m3VbxkRSRelqM88Og8",
+         "plus_code" : {
+            "compound_code" : "R9FR+35 Solwezi",
+            "global_code" : "5GV8R9FR+35"
+         },
+         "rating" : 0,
+         "reference" : "ChIJi9-t7m3VbxkRSRelqM88Og8",
+         "types" : [ "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "10101, T5, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.176857,
+               "lng" : 26.3910095
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.17520807010728,
+                  "lng" : 26.39264587989272
+               },
+               "southwest" : {
+                  "lat" : -12.17790772989272,
+                  "lng" : 26.38994622010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Zambia National Commercial Bank ATM",
+         "place_id" : "ChIJ3bXzzc7VbxkRut4i4t1Iga4",
+         "plus_code" : {
+            "compound_code" : "R9FR+7C Solwezi",
+            "global_code" : "5GV8R9FR+7C"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ3bXzzc7VbxkRut4i4t1Iga4",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Solwezi Road, Kalulushi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1779208,
+               "lng" : 26.4049621
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.17656132010728,
+                  "lng" : 26.40634992989272
+               },
+               "southwest" : {
+                  "lat" : -12.17926097989272,
+                  "lng" : 26.40365027010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Indo-Zambia bank ATM",
+         "place_id" : "ChIJw3NmVRPVbxkRFJ_FwHwLRYo",
+         "plus_code" : {
+            "compound_code" : "RCC3+RX Solwezi",
+            "global_code" : "5GV8RCC3+RX"
+         },
+         "rating" : 0,
+         "reference" : "ChIJw3NmVRPVbxkRFJ_FwHwLRYo",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "RC69+84F, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1891868,
+               "lng" : 26.4177896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18772922010728,
+                  "lng" : 26.41915767989272
+               },
+               "southwest" : {
+                  "lat" : -12.19042887989272,
+                  "lng" : 26.41645802010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Yosat Complex - Indo-zambia Bank Visa ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100772161766692974891\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDdRQaxXzlJU9NTMWPd8fyQucynYIqj01EnmvAMFZpefkmde7oA9AY7pyWX8tHMjCRw5TjU-klufbnWs30bBI9eRWghyiBD60Fd63l548iId4agYDlEg4gVJ4Z7WbAAUJBnTBaW0KujPa8dd2_xJTksbi1T09nGOOdXLdLI6gnStB4Q",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJkxK4mEzVbxkR4npaLSvCXkU",
+         "rating" : 3,
+         "reference" : "ChIJkxK4mEzVbxkR4npaLSvCXkU",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R99X+658, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1819669,
+               "lng" : 26.3979615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18070247010728,
+                  "lng" : 26.39934077989272
+               },
+               "southwest" : {
+                  "lat" : -12.18340212989272,
+                  "lng" : 26.39664112010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Bank FNB Solwezi",
+         "place_id" : "ChIJsRRnW8_VbxkREjTGD9mo8ZE",
+         "rating" : 0,
+         "reference" : "ChIJsRRnW8_VbxkREjTGD9mo8ZE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "RC69+75C, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1893128,
+               "lng" : 26.4178859
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18779237010728,
+                  "lng" : 26.41923672989272
+               },
+               "southwest" : {
+                  "lat" : -12.19049202989272,
+                  "lng" : 26.41653707010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Yosat Hardware & Shopping Complex",
+         "place_id" : "ChIJlzRan0zVbxkRBXndtSMFE0Q",
+         "rating" : 0,
+         "reference" : "ChIJlzRan0zVbxkRBXndtSMFE0Q",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Lwenge Road Avenue Plot #32 Solwezi North Western Solwezi ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1824858,
+               "lng" : 26.4009948
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18121007010728,
+                  "lng" : 26.40232562989272
+               },
+               "southwest" : {
+                  "lat" : -12.18390972989272,
+                  "lng" : 26.39962597010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Absa | Bank | Solwezi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115050099881473861223\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDQupdOfg3g1IGHS9tX4mdS1eV8S6hOSuiSKZOXVs2XZ5aiNQ98KH-nyPVAXypFK64IzahDOY3z2NAhWFva62qWfKpxUCOLMDLpncH5oqsOhDT79zSLL-4sZVLNtvkCRjAQWZLiqy9sC72xdiYHTW_oD-sVSru9VOrprl5n89yDO_M",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJG1G9EybVbxkRdtdWysuMBz8",
+         "plus_code" : {
+            "compound_code" : "RC92+29 Solwezi",
+            "global_code" : "5GV8RC92+29"
+         },
+         "rating" : 0,
+         "reference" : "ChIJG1G9EybVbxkRdtdWysuMBz8",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "T5, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1827587,
+               "lng" : 26.4022386
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18150022010727,
+                  "lng" : 26.40356482989272
+               },
+               "southwest" : {
+                  "lat" : -12.18419987989272,
+                  "lng" : 26.40086517010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Stanbic Bank",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJQVx1hVvVbxkRonNILN5kAeI",
+         "plus_code" : {
+            "compound_code" : "RC82+VV Solwezi",
+            "global_code" : "5GV8RC82+VV"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJQVx1hVvVbxkRonNILN5kAeI",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "T5, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1825949,
+               "lng" : 26.4018132
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18136362010728,
+                  "lng" : 26.40313177989272
+               },
+               "southwest" : {
+                  "lat" : -12.18406327989272,
+                  "lng" : 26.40043212010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Cavmont Bank Solwezi Branch",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101512399003571983897\"\u003eJames Havenga\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECL5fYDc3dy4eCm0LLwM7RrZ_WiRlocpxs45D9K9y-tEktSEAwL19ccxDWo0D4BeWtef9Du0wNXGrOwnlQZWFgoz__RKWLE2zzTIDLjtzwfCTgk-zGDbK72PQkW3tmpuNrI4eoTQ1eAUKuT3fZxk59P98ilQU_WQjJqJ81bm51NXbj2",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJ31AliFvVbxkRfXcyzIgdH8w",
+         "plus_code" : {
+            "compound_code" : "RC82+XP Solwezi",
+            "global_code" : "5GV8RC82+XP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ31AliFvVbxkRfXcyzIgdH8w",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "RC82+RCR, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1828956,
+               "lng" : 26.4010044
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18145422010728,
+                  "lng" : 26.40237362989272
+               },
+               "southwest" : {
+                  "lat" : -12.18415387989272,
+                  "lng" : 26.39967397010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Invest trust Bank",
+         "place_id" : "ChIJCdzrelzVbxkRqia9kwSTESs",
+         "rating" : 0,
+         "reference" : "ChIJCdzrelzVbxkRqia9kwSTESs",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "T5, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.184702,
+               "lng" : 26.4056531
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18319967010728,
+                  "lng" : 26.40710437989272
+               },
+               "southwest" : {
+                  "lat" : -12.18589932989272,
+                  "lng" : 26.40440472010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Zambia National Commecial Bank ZANACO",
+         "photos" : [
+            {
+               "height" : 3176,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114378934254232536704\"\u003eKamlesh Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECr0HnCEcFi2OgmvpfLovetHE3IN4Tuj5jaYyCqGj_ERKdv6hMhYcxuWue6ulJ4JGqnvYuK8LCpns2Ov6d6giQxRJPvzY7Z76R9Mfldy8ZvQ3YpeQlpPoSyaVwLVi3r_KdRRAEIWPw8E2Lg006EBfZGQV_glVpHTpBd5hD6LMVvPY25",
+               "width" : 5036
+            }
+         ],
+         "place_id" : "ChIJ1ZRrxFrVbxkRFNsaGqTqVjE",
+         "plus_code" : {
+            "compound_code" : "RC84+47 Solwezi",
+            "global_code" : "5GV8RC84+47"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ1ZRrxFrVbxkRFNsaGqTqVjE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "T5, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1825798,
+               "lng" : 26.4017543
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18134867010728,
+                  "lng" : 26.40307282989272
+               },
+               "southwest" : {
+                  "lat" : -12.18404832989272,
+                  "lng" : 26.40037317010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Access Bank",
+         "photos" : [
+            {
+               "height" : 2504,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106430051126840347650\"\u003eMulele Bwalya\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAt70_PGywksUxpoDkxFGVqfX3rbgZQSMkGFB8jBN894cgRpRFavc-4Ti6_EDc668NdpP8Dnu0G1qH6pLi0rT8IU1C-gqXVTr8-Qhh98Z2aPfNAzkiBUU3iy_urfG3ftJhILh8UZCWgHE3VJ1TCx7LRmneqYwUr9gBxXu6pHNOFD7wA",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJKTFY4Q7VbxkRZSGIqtJTKY4",
+         "plus_code" : {
+            "compound_code" : "RC82+XP Solwezi",
+            "global_code" : "5GV8RC82+XP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJKTFY4Q7VbxkRZSGIqtJTKY4",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "10101, T5, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1775239,
+               "lng" : 26.3905784
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.17555912010728,
+                  "lng" : 26.39244952989272
+               },
+               "southwest" : {
+                  "lat" : -12.17825877989272,
+                  "lng" : 26.38974987010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "NATSAVE",
+         "place_id" : "ChIJN6Z2OonVbxkRKa4fItrJQBI",
+         "plus_code" : {
+            "compound_code" : "R9CR+X6 Solwezi",
+            "global_code" : "5GV8R9CR+X6"
+         },
+         "rating" : 0,
+         "reference" : "ChIJN6Z2OonVbxkRKa4fItrJQBI",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R9FR+F4Q, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1762753,
+               "lng" : 26.3903497
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.17465147010728,
+                  "lng" : 26.39181472989272
+               },
+               "southwest" : {
+                  "lat" : -12.17735112989272,
+                  "lng" : 26.38911507010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Invest Trust Bank",
+         "place_id" : "ChIJkRF-1G8rcBkRlyWqC8jw9gQ",
+         "rating" : 0,
+         "reference" : "ChIJkRF-1G8rcBkRlyWqC8jw9gQ",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },  {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "RC83+53Q, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1845291,
+               "lng" : 26.4027235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18316307010728,
+                  "lng" : 26.40418842989272
+               },
+               "southwest" : {
+                  "lat" : -12.18586272989272,
+                  "lng" : 26.40148877010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "old Barclays",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJCQ_qaVvVbxkR4Ws08ujWKWE",
+         "rating" : 5,
+         "reference" : "ChIJCQ_qaVvVbxkR4Ws08ujWKWE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R9MM+7J3, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1668528,
+               "lng" : 26.3840459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.16553347010728,
+                  "lng" : 26.38527322989272
+               },
+               "southwest" : {
+                  "lat" : -12.16823312989272,
+                  "lng" : 26.38257357010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "FMC Finance Solwezi Branch",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114586752440040181330\"\u003eWezi Nkambule Banda\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDwtACrUdN-JTck9LSwW6NNjlp72LaxDoCCQbLyuQm-eAnqH8nI6sNR8h_NVaLyaG4N63Bhrjxwg1RILhLqKLN-h2_sxpIs2nTWwJo1Owtd68TF7SPPxld7M2q2FVp9xLo5S7HmpTWyLndRzjKJ9Z6MkKqTVp4xBqUANfWoraGP6WpE",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJq6qqqpoqcBkRFuV7iAhY9RM",
+         "rating" : 3.7,
+         "reference" : "ChIJq6qqqpoqcBkRFuV7iAhY9RM",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R9CW+CP7, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1789596,
+               "lng" : 26.3967882
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.17766007010728,
+                  "lng" : 26.39820892989272
+               },
+               "southwest" : {
+                  "lat" : -12.18035972989272,
+                  "lng" : 26.39550927010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Airtel Branch",
+         "place_id" : "ChIJ356wBSvVbxkRCV09kYnsPwA",
+         "rating" : 0,
+         "reference" : "ChIJ356wBSvVbxkRCV09kYnsPwA",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "plot 408/9, independence avenue, T5, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.1830773,
+               "lng" : 26.4001181
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18145577010728,
+                  "lng" : 26.40154442989272
+               },
+               "southwest" : {
+                  "lat" : -12.18415542989272,
+                  "lng" : 26.39884477010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Indo Zambia Bank Ltd",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113822711143384819869\"\u003eian sitali\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDmIvfEMOuULA7Jyyuqdwnkh0XdghMaCsjtdcvpIAsiNhI7OhxOavFkhCLZefZeBKBAJsCMswZTF9moHDWzGOcqvICPMK3pZHuzcgSoWMPaDxYarp4swvIDgr--yEM1GIqeIsimLlsj4gPnuAU1SyGIHlkMbUyN99AdoAsiKaxzUl57",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJk8AGXVzVbxkRPfZdcT1Z3HM",
+         "plus_code" : {
+            "compound_code" : "RC82+Q2 Solwezi",
+            "global_code" : "5GV8RC82+Q2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJk8AGXVzVbxkRPfZdcT1Z3HM",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R98X+VXH, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.182804,
+               "lng" : 26.3999869
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.18129322010728,
+                  "lng" : 26.40138282989272
+               },
+               "southwest" : {
+                  "lat" : -12.18399287989272,
+                  "lng" : 26.39868317010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Zambia National Building Society Solwezi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113822711143384819869\"\u003eian sitali\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBTtGf80VhSuvbvPA-vFMrtYzxDsVnOVQYh_XGTGbRKgknDJiF6QlNozSNHxChFPX1vjfGRi-MsYDAIDr8Mbsya8aTmrn_fM-zBHgihsbhteqBBUGlK2ObrLmShAmRaMF1drZ2-96UrUPTvxY_uXqHqkIgCPnZmpCb5OfcvtTPkdq74",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJx0kaQ1zVbxkR-xzMDBm2rlU",
+         "rating" : 3.5,
+         "reference" : "ChIJx0kaQ1zVbxkR-xzMDBm2rlU",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "QCG7+XW9, Solwezi, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.222578,
+               "lng" : 25.4148478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.22120837010728,
+                  "lng" : 25.41614057989272
+               },
+               "southwest" : {
+                  "lat" : -12.22390802989272,
+                  "lng" : 25.41344092010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Kalumbila Township ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115892602778999960322\"\u003ekondwani p\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC-tSFgr7Jm_pE3fCxDrzMenl8oAr6W5mvaAX0eCJZ3wirlRP1c6rG1oLDNd4w-zPz47JIQbGNlwiQ11YCqXMZQlDMlOv-zye9VrOYkpQQPTpKrvnfgDCC_mwU17H_859DRefy1S81u-ffqPalL3_2Bg5rJE0CsnHlMjd4Q7mAWI84X",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ9zez-q-zehkRGG1UT7dlNrg",
+         "rating" : 3.5,
+         "reference" : "ChIJ9zez-q-zehkRGG1UT7dlNrg",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
       }
 ]
