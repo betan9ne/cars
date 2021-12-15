@@ -1,0 +1,2275 @@
+ [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H974+H3G, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4360696,
+               "lng" : 28.3551974
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.43476527010728,
+                  "lng" : 28.35664512989272
+               },
+               "southwest" : {
+                  "lat" : -15.43746492989272,
+                  "lng" : 28.35394547010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB ATM Crossroads",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJEwvsgVqMQBkR8HfgAaDDNmo",
+         "rating" : 3,
+         "reference" : "ChIJEwvsgVqMQBkR8HfgAaDDNmo",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "JCJ2+3RF, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3698047,
+               "lng" : 28.402041
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.36845297010727,
+                  "lng" : 28.40318852989272
+               },
+               "southwest" : {
+                  "lat" : -15.37115262989272,
+                  "lng" : 28.40048887010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Fnb Atm",
+         "place_id" : "ChIJbzno_1uJQBkReYBwXmacopw",
+         "rating" : 0,
+         "reference" : "ChIJbzno_1uJQBkReYBwXmacopw",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J983+VR5, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3828627,
+               "lng" : 28.3546087
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.38158562010728,
+                  "lng" : 28.35592632989272
+               },
+               "southwest" : {
+                  "lat" : -15.38428527989272,
+                  "lng" : 28.35322667010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Stanbic bank ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109215280711491196871\"\u003e2c411j\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDDNoNAXKxJlX6T-lnju06F3MInYm_BAaufv0o6HlyPmhKRw6KvGo5zAC18aCxmIDWDMvICOX76KC8PWa1IULh3WzzvCAm4Ni_HKftTKnLrToPoFzWFnjSA3rIeDEFgPltFqm_pOua7bmh9iNuWu3GUsRVc3kyuDctcaBPKwRMXErBC",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJiT-0fqKLQBkRzepseHuXV1s",
+         "rating" : 0,
+         "reference" : "ChIJiT-0fqKLQBkRzepseHuXV1s",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J859+F9M, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3912823,
+               "lng" : 28.3184218
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39005362010728,
+                  "lng" : 28.31987957989272
+               },
+               "southwest" : {
+                  "lat" : -15.39275327989272,
+                  "lng" : 28.31717992010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB ATM",
+         "place_id" : "ChIJf5OcIkGLQBkRSpXMYwR7kk4",
+         "rating" : 2.5,
+         "reference" : "ChIJf5OcIkGLQBkRSpXMYwR7kk4",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J848+VQ9, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3928325,
+               "lng" : 28.3169802
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39167922010728,
+                  "lng" : 28.31851802989273
+               },
+               "southwest" : {
+                  "lat" : -15.39437887989272,
+                  "lng" : 28.31581837010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Ecobank ATM",
+         "place_id" : "ChIJ23wrTUGLQBkRc840qwX9Ug8",
+         "rating" : 5,
+         "reference" : "ChIJ23wrTUGLQBkRc840qwX9Ug8",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Foxdale Court,, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3716701,
+               "lng" : 28.3179772
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.37034442010727,
+                  "lng" : 28.31937532989272
+               },
+               "southwest" : {
+                  "lat" : -15.37304407989272,
+                  "lng" : 28.31667567010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "First National Bank (FNB) ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJf-xqWyGLQBkRAgDY7F_4H60",
+         "plus_code" : {
+            "compound_code" : "J8H9+85 Lusaka",
+            "global_code" : "5GPCJ8H9+85"
+         },
+         "rating" : 4,
+         "reference" : "ChIJf-xqWyGLQBkRAgDY7F_4H60",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J96V+9CM, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3890382,
+               "lng" : 28.3935327
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.38766957010728,
+                  "lng" : 28.39511752989272
+               },
+               "southwest" : {
+                  "lat" : -15.39036922989272,
+                  "lng" : 28.39241787010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Stanbic ATM",
+         "place_id" : "ChIJD8ja-leJQBkRqLJhqlGMiIc",
+         "rating" : 0,
+         "reference" : "ChIJD8ja-leJQBkRqLJhqlGMiIc",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "JCH3+H72, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3711007,
+               "lng" : 28.4031349
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.36954442010728,
+                  "lng" : 28.40454587989272
+               },
+               "southwest" : {
+                  "lat" : -15.37224407989272,
+                  "lng" : 28.40184622010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Stanbic ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJbXuU32WJQBkRXWG2ZHrgX_4",
+         "rating" : 0,
+         "reference" : "ChIJbXuU32WJQBkRXWG2ZHrgX_4",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J86F+X4V, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3875238,
+               "lng" : 28.3228052
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.38660512010728,
+                  "lng" : 28.32422752989272
+               },
+               "southwest" : {
+                  "lat" : -15.38930477989272,
+                  "lng" : 28.32152787010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB ATM",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114190144467170844895\"\u003eAUGUSTINE CHOTA\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBYRsbjA_UcJQ222-MSIR-13NRz6aMRCAyMxDicbnFPkO7BiDIp9MCbesb1JqEw1gEUozl17Ekfpj2k-swwpK33oc5jt3AkZFm0O36BKf1VS69L_auWWPps6W_WJY3FF0QJadE5FLR3ry-sL8lau4cb15hRj-cEWHucDy4IP7Y_mmga",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJAQAAAECLQBkRsj2QMOIqseo",
+         "rating" : 5,
+         "reference" : "ChIJAQAAAECLQBkRsj2QMOIqseo",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Chelston, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3732666,
+               "lng" : 28.382518
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.37186102010727,
+                  "lng" : 28.38380537989272
+               },
+               "southwest" : {
+                  "lat" : -15.37456067989272,
+                  "lng" : 28.38110572010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114511504876652821367\"\u003eTeddy Mabuku\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB6624wKNj6C7e3vQ8d6ApyWqMO_gv4Vdb2oDgdWvFewiyROrDpDaPy4a6OWt0wzsSSs-k45JfBAUr94Ce3erz8S9uArlv3jo0KHvoaEByq7OSFgjdt25ybqSIOyngKX_IbTaT0g2sRLVCQGP5TjUoJdjPAgbCf7Np8bP0N6SE9D7q3",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJx68YQ9uLQBkREXOXUB4D-Hw",
+         "plus_code" : {
+            "compound_code" : "J9GM+M2 Lusaka",
+            "global_code" : "5GPCJ9GM+M2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJx68YQ9uLQBkREXOXUB4D-Hw",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J9F7+549, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3770995,
+               "lng" : 28.3628511
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.37573692010728,
+                  "lng" : 28.36413712989272
+               },
+               "southwest" : {
+                  "lat" : -15.37843657989272,
+                  "lng" : 28.36143747010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Cavmont ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105859491851677106252\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBSEh-dHNnoY3QvJqezN9llQ-eOZK8m_Fu978jg_DQyfHn4kVoB6C16M3UQY6pPWNUKAPGDYmf7tAYfg5MtUIm7kzQm_rXhNMrlM7hS3FEmXbUjnQZ72r99Q6XTcHOeT1wcqx8xo31_-Yu-bJqSBy-Su7PUcSHtoTfITU8kjHnNe5EK",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJt5-aGryLQBkRkt4atvLbSOs",
+         "rating" : 5,
+         "reference" : "ChIJt5-aGryLQBkRkt4atvLbSOs",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Foxdale Court,, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3718161,
+               "lng" : 28.3176249
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.37051667010728,
+                  "lng" : 28.31893432989272
+               },
+               "southwest" : {
+                  "lat" : -15.37321632989272,
+                  "lng" : 28.31623467010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Stanbic Bank ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101479052777742118927\"\u003eGift Sichone\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBNQePRBugdjYXfx1jUYpp3BoWtymmYFpEa-WdxEh4qV_ZQXeJMgYy5GTCY2ktHLzRfT6uzZQBicAd5VlAm9jDNL2hc7-CEuQhvAHwlyLPwDiPuJ0wGxmP8-g1u0OWHFsJRRgQ64QOeszS4OQ6jgyFCp6PPznHDbVfIKJA4_3j2MEc",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJL1uKUCGLQBkRsQrI1GAlGIM",
+         "plus_code" : {
+            "compound_code" : "J8H9+72 Lusaka",
+            "global_code" : "5GPCJ8H9+72"
+         },
+         "rating" : 5,
+         "reference" : "ChIJL1uKUCGLQBkRsQrI1GAlGIM",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "East Park Mall,, Thabo Mbeki Rd, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3911611,
+               "lng" : 28.3206209
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.38975882010728,
+                  "lng" : 28.32201807989272
+               },
+               "southwest" : {
+                  "lat" : -15.39245847989272,
+                  "lng" : 28.31931842010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "First National Bank ATM",
+         "place_id" : "ChIJg93czUGLQBkRicCuQ9_GYZQ",
+         "plus_code" : {
+            "compound_code" : "J85C+G6 Lusaka",
+            "global_code" : "5GPCJ85C+G6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJg93czUGLQBkRicCuQ9_GYZQ",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "University of Zambia, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3922282,
+               "lng" : 28.3280761
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39082362010728,
+                  "lng" : 28.32947102989272
+               },
+               "southwest" : {
+                  "lat" : -15.39352327989272,
+                  "lng" : 28.32677137010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Investrust Bank ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117416613830866900488\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECzFojx_Ka0sx_X1CuiupxerSzXES0oIkUCDk8JhYMm0mMf6QU_OeR3ke0ZxhQyt_UaUqoCghUOLybuN9ZhcLhq66wJ9cxIf3X3tZUcEtsjb9-MWgYud8MhA78jKeomfcSDuVr6SSKJyJkKNtThkROWSVPRWbCN1xRCu5isCNxn9-co",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJazW_V2mLQBkRHIj2YMy7i4Y",
+         "plus_code" : {
+            "compound_code" : "J85H+46 Lusaka",
+            "global_code" : "5GPCJ85H+46"
+         },
+         "rating" : 0,
+         "reference" : "ChIJazW_V2mLQBkRHIj2YMy7i4Y",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Foxdale Court,, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3717476,
+               "lng" : 28.3175152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.37044402010728,
+                  "lng" : 28.31882792989272
+               },
+               "southwest" : {
+                  "lat" : -15.37314367989272,
+                  "lng" : 28.31612827010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Ecobank ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101479052777742118927\"\u003eGift Sichone\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uED9JDKg3hRYyFj7XMFk3gmVLPel_FnVHircrQ5JxA-AyWW28Thdj9feAL7ybDmsh0DZwsrvxZF_X5A_inKL50NbWddIrTJvTqLxhwTIifXbQocgJIYZKCFSNfg-jswtwg0TxPAZbxTQGF81OJCUI8MNYlypZzeFDMHsj8DBxjx1joA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJUzm1USGLQBkRpQxpgY1sbIY",
+         "plus_code" : {
+            "compound_code" : "J8H9+82 Lusaka",
+            "global_code" : "5GPCJ8H9+82"
+         },
+         "rating" : 5,
+         "reference" : "ChIJUzm1USGLQBkRpQxpgY1sbIY",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Salama Park, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3875238,
+               "lng" : 28.3228052
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.38660512010728,
+                  "lng" : 28.32422752989272
+               },
+               "southwest" : {
+                  "lat" : -15.38930477989272,
+                  "lng" : 28.32152787010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Atlasmara ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108443305401690728062\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBz6YOrTaj8iyxN_i1nFjf0AOhwS-yfLfodpbKpVNCPlvhuPafxs9ZcvFFmfrBA5Ndbou2cc52CV7cjhKT0yTcfSdq9PaUFEo1jsFQQvRD214FVHUYRZLi4kHwccGXU0sUJN5qNbX746OznGh1jthx6BuBuGIZiOg7IIIliR0-nj1TK",
+               "width" : 2016
+            }
+         ],
+         "place_id" : "ChIJZ44_AHGLQBkRNkvmc3dDK1M",
+         "plus_code" : {
+            "compound_code" : "J86F+X4 Lusaka",
+            "global_code" : "5GPCJ86F+X4"
+         },
+         "rating" : 3,
+         "reference" : "ChIJZ44_AHGLQBkRNkvmc3dDK1M",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Great East Road Garden City Mall Lusaka Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3714471,
+               "lng" : 28.4024574
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.37021452010728,
+                  "lng" : 28.40357317989272
+               },
+               "southwest" : {
+                  "lat" : -15.37291417989272,
+                  "lng" : 28.40087352010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Garden City 47",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100437431696628471440\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAnnI9FA367doYMo6Ui5ecWhuAP6czfZBtAN6f3Ap_tG5tbppjMVjGNizwfNy_JN6XIrBnBDbeS7s6O-Vtp-djEQLzV2QWKGJbEAUnmvY91vMIw55Aq3DSvQbdlmjY68_RSsQJobdpFHQIBTsPDqkx7ym0Rdb0FA5G6cC57a6Nx6Cpu",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ3faiUeiJQBkRxTZG9t4fc10",
+         "plus_code" : {
+            "compound_code" : "JCH2+CX Lusaka",
+            "global_code" : "5GPCJCH2+CX"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ3faiUeiJQBkRxTZG9t4fc10",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kabulonga Rd, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4209738,
+               "lng" : 28.3428152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.41971142010727,
+                  "lng" : 28.34418592989272
+               },
+               "southwest" : {
+                  "lat" : -15.42241107989272,
+                  "lng" : 28.34148627010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Stanbic Bank | ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJaUDzc4mMQBkRN_LHwMoSGL8",
+         "plus_code" : {
+            "compound_code" : "H8HV+J4 Lusaka",
+            "global_code" : "5GPCH8HV+J4"
+         },
+         "rating" : 0,
+         "reference" : "ChIJaUDzc4mMQBkRN_LHwMoSGL8",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J848+VQ9, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3928325,
+               "lng" : 28.3169975
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39167507010728,
+                  "lng" : 28.31853132989272
+               },
+               "southwest" : {
+                  "lat" : -15.39437472989272,
+                  "lng" : 28.31583167010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB ATM",
+         "place_id" : "ChIJv7EuTUGLQBkRrR4KN1s5T3Q",
+         "rating" : 0,
+         "reference" : "ChIJv7EuTUGLQBkRrR4KN1s5T3Q",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Unnamed Road,, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3890672,
+               "lng" : 28.3937304
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.38770632010728,
+                  "lng" : 28.39521832989272
+               },
+               "southwest" : {
+                  "lat" : -15.39040597989272,
+                  "lng" : 28.39251867010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJzydP61eJQBkRzX-UgHjVLB4",
+         "plus_code" : {
+            "compound_code" : "J96V+9F Lusaka",
+            "global_code" : "5GPCJ96V+9F"
+         },
+         "rating" : 0,
+         "reference" : "ChIJzydP61eJQBkRzX-UgHjVLB4",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }, 
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Central Street Jesmodine Plot 101 Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3712429,
+               "lng" : 28.3177775
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.36999242010728,
+                  "lng" : 28.31934942989272
+               },
+               "southwest" : {
+                  "lat" : -15.37269207989272,
+                  "lng" : 28.31664977010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Foxdale 149",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106177047929823443005\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDRRpZm5dOJD_Vi8xQoUizdiLVZTiXqQg1J9vIyin2SnvihkNteWxDScOe-JhTotixfzhIdwzfr08BdukC6lf7CUe1g2OACTbZgA6D_NM6OESOztUeAZiqm6y_9BGN2Y5CmZk-BRQ_cj0Wl_oYehJrITrvNzlQCj7NmQbXDdXkZDDMK",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJoQlqoluLQBkRdxfl27Pb0og",
+         "plus_code" : {
+            "compound_code" : "J8H9+G4 Lusaka",
+            "global_code" : "5GPCJ8H9+G4"
+         },
+         "rating" : 0,
+         "reference" : "ChIJoQlqoluLQBkRdxfl27Pb0og",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J827+V4Q, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3977986,
+               "lng" : 28.3128677
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39642567010728,
+                  "lng" : 28.31427967989272
+               },
+               "southwest" : {
+                  "lat" : -15.39912532989272,
+                  "lng" : 28.31158002010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB ATM",
+         "place_id" : "ChIJxbr3E0WLQBkRelA3wjHp4RA",
+         "rating" : 5,
+         "reference" : "ChIJxbr3E0WLQBkRelA3wjHp4RA",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H7CM+XMG, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.427558,
+               "lng" : 28.2842186
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.42620917010728,
+                  "lng" : 28.28518682989272
+               },
+               "southwest" : {
+                  "lat" : -15.42890882989272,
+                  "lng" : 28.28248717010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB ATM Downtown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ9UQIV0TzQBkR62WsCU3R3G0",
+         "rating" : 0,
+         "reference" : "ChIJ9UQIV0TzQBkR62WsCU3R3G0",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J92V+9MV, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3990096,
+               "lng" : 28.3941753
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39765417010728,
+                  "lng" : 28.39541152989272
+               },
+               "southwest" : {
+                  "lat" : -15.40035382989272,
+                  "lng" : 28.39271187010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Barclays ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108380522416270630064\"\u003eMoses Tawila\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECmq_XcoPuX3-mJjh0wcAXwd4sJfdLqcnlW4ONKAZ5oxGZ1diWUyfFF3zHNvzU4izsrfj4PYhisKi7imoFu39Rgv8Z1KKfmR8t90ZbeCH21X0UZsQsvMY05PGE6mmQ8PI97eGl2jkKeiXchSE8jwai9o4m0sHHNXkQxmh70Su2cWWVa",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJQ97ntKqOQBkRxdCSMw68GGg",
+         "rating" : 4,
+         "reference" : "ChIJQ97ntKqOQBkRxdCSMw68GGg",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Foxdale Court,, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3717606,
+               "lng" : 28.3175318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.37045682010728,
+                  "lng" : 28.31884467989272
+               },
+               "southwest" : {
+                  "lat" : -15.37315647989272,
+                  "lng" : 28.31614502010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Finance Bank ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 851,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101479052777742118927\"\u003eGift Sichone\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBaHBrF4lMsZzgoeQBPXUE-q6w_ipqaY3vjqKpINbbzMx1WEBE3U-wLHLGYHer357oKkufnaPk0j-tPcFydzgR4pIIYMzb4EOYGBOrhjNn33eTnAdVn5UJIRwepJhbeANRzfeePrKQAyLFs28p5FzigEWIV8RFqM6SmUThcB-H8fm8",
+               "width" : 569
+            }
+         ],
+         "place_id" : "ChIJx8FbUCGLQBkR4bAp1cqI0TY",
+         "plus_code" : {
+            "compound_code" : "J8H9+72 Lusaka",
+            "global_code" : "5GPCJ8H9+72"
+         },
+         "rating" : 0,
+         "reference" : "ChIJx8FbUCGLQBkR4bAp1cqI0TY",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Great East Road East Park Mall Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3911027,
+               "lng" : 28.3199995
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.38968762010728,
+                  "lng" : 28.32127102989272
+               },
+               "southwest" : {
+                  "lat" : -15.39238727989272,
+                  "lng" : 28.31857137010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | East Park Mall 6",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108513168053199890490\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECgHKtvULdkQHh4hrmv-xGmKzfXC5-6scd-Brdtk2s934btLXFoawog7qXEaVKrDXYZqJOBst8W-TNRYAlaLJ77QQFCRHfEk9IVuQAqH8UUFZHVBgr_OyTi20A3DFkohKOwOrEEVXdUPqYrsJDGIrmdOntNXedR2taDESlm-BWdnn0",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJI3YHh-WLQBkRISZj2xWiyJQ",
+         "plus_code" : {
+            "compound_code" : "J859+HX Lusaka",
+            "global_code" : "5GPCJ859+HX"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJI3YHh-WLQBkRISZj2xWiyJQ",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H8HV+984, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4216073,
+               "lng" : 28.3433211
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.42022497010728,
+                  "lng" : 28.34484362989272
+               },
+               "southwest" : {
+                  "lat" : -15.42292462989272,
+                  "lng" : 28.34214397010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB (First National Bank) | ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJm0-_gYmMQBkRsAYqDe25J04",
+         "rating" : 5,
+         "reference" : "ChIJm0-_gYmMQBkRsAYqDe25J04",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J824+RV8, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3979706,
+               "lng" : 28.3072109
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39664742010728,
+                  "lng" : 28.30858542989272
+               },
+               "southwest" : {
+                  "lat" : -15.39934707989272,
+                  "lng" : 28.30588577010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Zanaco - Manda Hill",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113703497932938614182\"\u003eCharles Nii Ofei Hansen-Quao\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAL7Fe_MW4qoA8CLL6xmuwA_7GPD198bGYBWWAwYKHhlWahWnSO3bDa5jK54Q5nNN3sC7eLqrf4lD1vhcG_eiuL8woT_lol1soAzi9a0X66qi0qvDMQVXj3NKd0dLg2jJv1mEPNaPNmvDG8saSML-8D-NDoTksQmx_t3HsZwSxQapLz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJU_EBWE6LQBkRDchqqJItYpg",
+         "rating" : 4.5,
+         "reference" : "ChIJU_EBWE6LQBkRDchqqJItYpg",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H7PP+M6G, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4133152,
+               "lng" : 28.2855813
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.41243027010728,
+                  "lng" : 28.28713037989272
+               },
+               "southwest" : {
+                  "lat" : -15.41512992989272,
+                  "lng" : 28.28443072010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Stanbic Bank ATM",
+         "place_id" : "ChIJCbnzj6f0QBkRCi0NbEdyDyY",
+         "rating" : 4,
+         "reference" : "ChIJCbnzj6f0QBkRCi0NbEdyDyY",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Great East Road BP Filling Station Arcades Shopping Mall Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3912147,
+               "lng" : 28.3173353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.38990852010728,
+                  "lng" : 28.31873292989273
+               },
+               "southwest" : {
+                  "lat" : -15.39260817989272,
+                  "lng" : 28.31603327010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Arcades Bp 15",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117480585453191403841\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAdPm-jaHz08_3_yZLzD7bV0mIg9U_8Xui1-7M5kXP0tHA5nP59X6cUJn_kNkxrTi89lGxjowrIKpUZMh5vSKfze_sQvqXPlsKInsQsBbKOVObeS-KMOAec56eUNi3LOODDO0wgZEgw1hUhJMDg9mjnmmZzstBF_Y-5teT79N-hzTo",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJMXACVSmLQBkRETa-TK61738",
+         "plus_code" : {
+            "compound_code" : "J858+GW Lusaka",
+            "global_code" : "5GPCJ858+GW"
+         },
+         "rating" : 0,
+         "reference" : "ChIJMXACVSmLQBkRETa-TK61738",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Great East Road BP Filling Station Arcades Shopping Mall Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3919908,
+               "lng" : 28.3171581
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39061127010728,
+                  "lng" : 28.31848177989272
+               },
+               "southwest" : {
+                  "lat" : -15.39331092989272,
+                  "lng" : 28.31578212010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Arcades Br 25 Gbna",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109406255305483297750\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECS64tJpIGZIiNcHgYd3pigtgDv-ItPbY8MLO-GslvtafnoN3iLBBkeOBLViXlt9QZsHSvkCSuEBsGvkzgZJfjEif43a9lh2F7FrjN9NLBFV0ZARG5h8dzGc7ynRvOS9lzEZxjXFVpfRpXmyxtKJ9hdOIuWlHUuYpT2PwLXlyqZ7IuA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJg-YiHVOLQBkRHlYy63lumHQ",
+         "plus_code" : {
+            "compound_code" : "J858+6V Lusaka",
+            "global_code" : "5GPCJ858+6V"
+         },
+         "rating" : 0,
+         "reference" : "ChIJg-YiHVOLQBkRHlYy63lumHQ",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Junction Leopards Hill Rd/lake Road Crossroads Shopping Mall Woodlands Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4356785,
+               "lng" : 28.354866
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.43460157010728,
+                  "lng" : 28.35606747989272
+               },
+               "southwest" : {
+                  "lat" : -15.43730122989272,
+                  "lng" : 28.35336782010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Crossroads 38",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106339834754232949908\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEC38j6NO8v-BxX-U68kAxuhiz6DAXJjU67K2ypyTvOVA5aoK8UcJfjQ4rNVQ5Pk5txEmyI7WxKADNbw4BDIxn9VZCy6iP71zjhp_Jqqs3gTbVkalPrKIcd6IwaTRAF3kUSArVLQdBeADUxZxONMAsRD0PiiztM9li5pGduiAwPaEANp",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ8VFgOjONQBkRp5ZVFy13BZw",
+         "plus_code" : {
+            "compound_code" : "H973+PW Lusaka",
+            "global_code" : "5GPCH973+PW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ8VFgOjONQBkRp5ZVFy13BZw",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Chelston, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.373632,
+               "lng" : 28.382992
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.37202817010728,
+                  "lng" : 28.38405732989272
+               },
+               "southwest" : {
+                  "lat" : -15.37472782989272,
+                  "lng" : 28.38135767010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Zanaco ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ2X5HYduLQBkRD4a2vXfdefc",
+         "plus_code" : {
+            "compound_code" : "J9GM+G5 Lusaka",
+            "global_code" : "5GPCJ9GM+G5"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ2X5HYduLQBkRD4a2vXfdefc",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Haile Selassie Road Longacres Lusaka Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4172965,
+               "lng" : 28.3134676
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.41600962010728,
+                  "lng" : 28.31483647989272
+               },
+               "southwest" : {
+                  "lat" : -15.41870927989273,
+                  "lng" : 28.31213682010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm |Longacres",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102484160833735418835\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDz4UNz7QIyTVH3HNJUCtTjYI6RMnr0n9yigSXlKmdiIhYvCdNuxjWz-UD3EcMfL5JZGMhLFRXxCdq99eD745neFLKbofRr_97jahaFarPDnOjwSoq54iFztZs3LuIqQDsL3kmDxbj4TT99fJX2db0cis_XPIfRNbUNuU1b9D3Xkt9I",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJIdWFXRCNQBkRJiy8_PYdC5M",
+         "plus_code" : {
+            "compound_code" : "H8M7+39 Lusaka",
+            "global_code" : "5GPCH8M7+39"
+         },
+         "rating" : 0,
+         "reference" : "ChIJIdWFXRCNQBkRJiy8_PYdC5M",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H7RC+C87, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4089729,
+               "lng" : 28.2708012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.40748982010728,
+                  "lng" : 28.27222457989272
+               },
+               "southwest" : {
+                  "lat" : -15.41018947989272,
+                  "lng" : 28.26952492010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB ATM",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJuQnYZZn0QBkRRKewkKR443I",
+         "rating" : 4,
+         "reference" : "ChIJuQnYZZn0QBkRRKewkKR443I",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Great East Road Chelstone Lusaka Stand 1124 Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3769516,
+               "lng" : 28.3780937
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.37554932010728,
+                  "lng" : 28.37944252989272
+               },
+               "southwest" : {
+                  "lat" : -15.37824897989272,
+                  "lng" : 28.37674287010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Chelstone 55",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112156069703212639613\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECthqBN-wiHbrvH1-CLkpSzKfBodJovzpAlFTCrGxbbksODo3zzSim02ub0cqpGFFOPhqWkq584cjux0ZpEVQ9T-Rxl0gqGRFyF_SKJ2m6oY-xBiS7BpBV3IR1x-Ll9tP5WHKKiQk_RdOb9CDdUqP5fKJBUTUJEtNKOjQuCoA-_Podq",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJs-nx7zSLQBkRDdg0VWSCE4M",
+         "plus_code" : {
+            "compound_code" : "J9FH+66 Lusaka",
+            "global_code" : "5GPCJ9FH+66"
+         },
+         "rating" : 4,
+         "reference" : "ChIJs-nx7zSLQBkRDdg0VWSCE4M",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ibex Hill, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4143545,
+               "lng" : 28.3696064
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.41332422010728,
+                  "lng" : 28.37103037989272
+               },
+               "southwest" : {
+                  "lat" : -15.41602387989272,
+                  "lng" : 28.36833072010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Zanaco ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJF9Vvp4qNQBkRrr_bm7VRe6w",
+         "plus_code" : {
+            "compound_code" : "H9P9+7R Lusaka",
+            "global_code" : "5GPCH9P9+7R"
+         },
+         "rating" : 0,
+         "reference" : "ChIJF9Vvp4qNQBkRrr_bm7VRe6w",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H8HV+68G, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4219311,
+               "lng" : 28.3433264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.42058467010728,
+                  "lng" : 28.34484767989272
+               },
+               "southwest" : {
+                  "lat" : -15.42328432989272,
+                  "lng" : 28.34214802010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Standard Chartered Kabulonga",
+         "place_id" : "ChIJz1q6KoqMQBkRpWXOrwjYkSQ",
+         "rating" : 2.3,
+         "reference" : "ChIJz1q6KoqMQBkRpWXOrwjYkSQ",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Foxdale Court,, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3779173,
+               "lng" : 28.3189458
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.37665537010728,
+                  "lng" : 28.32024992989272
+               },
+               "southwest" : {
+                  "lat" : -15.37935502989272,
+                  "lng" : 28.31755027010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Barclays Bank ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 578,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101479052777742118927\"\u003eGift Sichone\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAngKWWzQpwkCtNRYUzgQccmYoaXXIxrlEmSnbd0PL2LfMQtYiJbiUTQS2Fh3izn8WQt5Gc3dk5IuwAQFn-pTvgG6m3gItu9P0JmRmx3yg3yTwfnuHKio6LJP3h0wqyC0NsyX6eMvgbvBDnRvKbcGOMGWkuQ7s_UNZ4RDSS7qSMBsw",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJd65qWyGLQBkRZBhHuqTML38",
+         "plus_code" : {
+            "compound_code" : "J8C9+RH Lusaka",
+            "global_code" : "5GPCJ8C9+RH"
+         },
+         "rating" : 5,
+         "reference" : "ChIJd65qWyGLQBkRZBhHuqTML38",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Great East Road Arcades Shopping Mall Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3919908,
+               "lng" : 28.3171581
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39061127010728,
+                  "lng" : 28.31848177989272
+               },
+               "southwest" : {
+                  "lat" : -15.39331092989272,
+                  "lng" : 28.31578212010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Arcades Branch 88",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108216327343359925608\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBA6nTGBJGtR0p5P_Asvrbmk_En-l_yx52cqzWkI6eOA10_LVNoUBh4Hag7nx5BQfDeI6x1as6ZqsyXaLemxNl84ZheIZG0Pb7SyPL8BIi-lpslrVHbf6XTH_Z7ew8-qhz7YK4kxVJzw4FbBN3250RcGf3YdppYBhzFyL4yOmZqJ8lo",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJJSvSDp2LQBkRUkhqLkAjp-s",
+         "plus_code" : {
+            "compound_code" : "J858+6V Lusaka",
+            "global_code" : "5GPCJ858+6V"
+         },
+         "rating" : 0,
+         "reference" : "ChIJJSvSDp2LQBkRUkhqLkAjp-s",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ,
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H7GQ+V84, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4228612,
+               "lng" : 28.2883251
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.42148727010728,
+                  "lng" : 28.28983117989272
+               },
+               "southwest" : {
+                  "lat" : -15.42418692989272,
+                  "lng" : 28.28713152010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "ZANACO ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJebcpDVDzQBkR7XntwMKSCEk",
+         "rating" : 3,
+         "reference" : "ChIJebcpDVDzQBkR7XntwMKSCEk",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Junction Leopards Hill Rd/lake Road Crossroads Shopping Mall Woodlands Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4356785,
+               "lng" : 28.354866
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.43460157010728,
+                  "lng" : 28.35606747989272
+               },
+               "southwest" : {
+                  "lat" : -15.43730122989272,
+                  "lng" : 28.35336782010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Crossroads 34",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100204817795081642372\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECNaWAGuaqwHCb9cjA2NNKPrHT87VczCC0Wgw2qesyLddBUZ3dgzd1K75mr6PIx78m8HEMCUaZKP-0hgPObRKq2iRJbOMPPpFuCAnphqfK_nIRp2VKdaxQL8ZLzhI9leT1XlBoEJsmXzycqtON2JMKdQuoKAfwlprK2OA74Tgcs46Tu",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJLahvOaCNQBkRRUGnjHezv40",
+         "plus_code" : {
+            "compound_code" : "H973+PW Lusaka",
+            "global_code" : "5GPCH973+PW"
+         },
+         "rating" : 0,
+         "reference" : "ChIJLahvOaCNQBkRRUGnjHezv40",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H7HR+24P, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4224155,
+               "lng" : 28.2903283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.42110227010727,
+                  "lng" : 28.29172247989272
+               },
+               "southwest" : {
+                  "lat" : -15.42380192989272,
+                  "lng" : 28.28902282010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "ZANACO ATM Government Complex",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109847912981686925895\"\u003eSam Mbale\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDO8aXWNGw9CJeEcZ333u7lWkc-udGN9ZVR5iioSFPgKqViqr-zPcv3b9_1Ta252jc3UKmlSjTQFpmA3e-vmt7m20mW3ruhwVNS16DWqfGXIlu_dZKzbtRTRItlUmHEHlSxhTaI618ZG8SMUpHsSEGOxQjSWvBiQFnDsz2MT2tRONIU",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJLXjKS1DzQBkR_v8iB9o0X0M",
+         "rating" : 4,
+         "reference" : "ChIJLXjKS1DzQBkR_v8iB9o0X0M",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H7PP+W67, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4127089,
+               "lng" : 28.2855611
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.41119667010728,
+                  "lng" : 28.28688182989272
+               },
+               "southwest" : {
+                  "lat" : -15.41389632989272,
+                  "lng" : 28.28418217010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJl36Il6f0QBkRuOABvklVpAY",
+         "rating" : 1,
+         "reference" : "ChIJl36Il6f0QBkRuOABvklVpAY",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J9FH+794, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3768586,
+               "lng" : 28.3784661
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.37548502010728,
+                  "lng" : 28.37981957989272
+               },
+               "southwest" : {
+                  "lat" : -15.37818467989272,
+                  "lng" : 28.37711992010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "ATM Barclays",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJIZ08B8OLQBkR4h7rtO-GaUw",
+         "rating" : 5,
+         "reference" : "ChIJIZ08B8OLQBkR4h7rtO-GaUw",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H8VG+3JP, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4072961,
+               "lng" : 28.3265797
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.40574852010728,
+                  "lng" : 28.32790387989272
+               },
+               "southwest" : {
+                  "lat" : -15.40844817989272,
+                  "lng" : 28.32520422010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "ECO Bank ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJy_MSxmGLQBkRLGqcfFu3cI0",
+         "rating" : 0,
+         "reference" : "ChIJy_MSxmGLQBkRLGqcfFu3cI0",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H87R+MHF, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4358147,
+               "lng" : 28.3414334
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.43457762010728,
+                  "lng" : 28.34276377989272
+               },
+               "southwest" : {
+                  "lat" : -15.43727727989272,
+                  "lng" : 28.34006412010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Barclays BP Woodlands",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3864,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105256189875191519897\"\u003eMpazi Justin Silupumbwe\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB_KaF47v7m5NUyw8O2VKmIvMoLb-1Z2qOiC9Ez6_MjAcw2rMUBifsWrgwt-iKS8rn86vclhurt5To2Ck4eFfhD93WjLO7t2GzLaaByebJbCWC_OC3XBJJye1xsrwKUMQ5X_FGSPzgID0eB3MgSyzcHCdIJGP_DtJoB_ZRmIyrR1CqP",
+               "width" : 5152
+            }
+         ],
+         "place_id" : "ChIJ4_Zz1_aMQBkR5Vw2OcXYoi4",
+         "rating" : 0,
+         "reference" : "ChIJ4_Zz1_aMQBkR5Vw2OcXYoi4",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Great East Road Manda Hill Shopping Mall Absa Bank Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3977699,
+               "lng" : 28.3072071
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39650342010727,
+                  "lng" : 28.30863417989272
+               },
+               "southwest" : {
+                  "lat" : -15.39920307989272,
+                  "lng" : 28.30593452010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Manda Hill 65",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109273476696886375507\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAcZjKTZJx2O4lJRbLfCtubNSEfOLV0rzPTCThqT2IuZhWjo1xH9nsPPDqqHCTXyxf7kI9eL-me5n5xeAcRPkdMJwBOKCQ4UN7r8mv_lXFaLpVTeBpzOIAmXVrsZiIOraMU4DtlAd1Q-nWixNm_gWxfqCvecObN1zWsT8XBulIvDMI",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ07k_kbKLQBkR9dosXZZkXU8",
+         "plus_code" : {
+            "compound_code" : "J824+VV Lusaka",
+            "global_code" : "5GPCJ824+VV"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ07k_kbKLQBkR9dosXZZkXU8",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Phi Mall Atm Phi Atm Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3958563,
+               "lng" : 28.3573295
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39454022010728,
+                  "lng" : 28.35850787989272
+               },
+               "southwest" : {
+                  "lat" : -15.39723987989272,
+                  "lng" : 28.35580822010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Phi Atm 24",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102921238400665425434\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBYxaha54zDOYElPLI29u8wLOnFPInXYdGgojOiB6gpqcRXNVMkoUtd5usrSBKE7_1Pem7-Qe8otCwPw9sE6S_UiP_3t_HkWIfVWlBQfEoCnD0BspsNkkJc5hisez130BHvx5hKNFNlN8nMpAHS91XXHbLoJqYpSww9oDo8lbe7BTgA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJF33JIsiLQBkRCICEnO3OgO0",
+         "plus_code" : {
+            "compound_code" : "J934+MW Lusaka",
+            "global_code" : "5GPCJ934+MW"
+         },
+         "rating" : 0,
+         "reference" : "ChIJF33JIsiLQBkRCICEnO3OgO0",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H82H+74V, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4492563,
+               "lng" : 28.327808
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.44791357010728,
+                  "lng" : 28.32906112989272
+               },
+               "southwest" : {
+                  "lat" : -15.45061322989272,
+                  "lng" : 28.32636147010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Fnb Atm",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109599277460758521862\"\u003eDeeody Daniel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDcKA4sfvB1zYKYuwUY6NsoVEED45qUNwLrdh6SK8lIV54TKyj6mKn8qYlYHeEIs9RHnaHv4r3ZTloPZ3yTp0_89OjZDvu6Ct3J6zPf9F6rgyVZpAFbxe3WyyjSxYoVZQ2GkYdMui8sk6cU-S_oZWXvX90Ft39jNYagLFXCkB6MXrdP",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJIezSkuGMQBkRUdgz_VdIDF0",
+         "rating" : 4.7,
+         "reference" : "ChIJIezSkuGMQBkRUdgz_VdIDF0",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "cairo road, Cairo Rd, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4166692,
+               "lng" : 28.2817154
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.41531672010727,
+                  "lng" : 28.28308182989272
+               },
+               "southwest" : {
+                  "lat" : -15.41801637989272,
+                  "lng" : 28.28038217010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Access Bank ATM",
+         "place_id" : "ChIJU3_fek_zQBkRgRCQDk0fVYU",
+         "plus_code" : {
+            "compound_code" : "H7MJ+8M Lusaka",
+            "global_code" : "5GPCH7MJ+8M"
+         },
+         "rating" : 0,
+         "reference" : "ChIJU3_fek_zQBkRgRCQDk0fVYU",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "H7HJ+PR3, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4207469,
+               "lng" : 28.2820326
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.41938132010728,
+                  "lng" : 28.28348637989272
+               },
+               "southwest" : {
+                  "lat" : -15.42208097989272,
+                  "lng" : 28.28078672010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Barclays ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110227182942836550598\"\u003eobby Simuzingili\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB5jNWBe9NVbaYxv7rWZQ2jrrMUrD2ApEsCbEOdjfxzQcfI27NInxdSUZNUUoI6-RweyxhqLZeHG8oaIlbKNkZUDsGZoMYDXU5Wyu9CC0RgWPgSm2S4RPWTYYX_vzT3Y_dXjKzOsgQEFEg7q3P6kdcRuBxb4IP-ZBxiufLiaKRmvocV",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJJZ_a9VvzQBkRFLB5EX4uokA",
+         "rating" : 3.3,
+         "reference" : "ChIJJZ_a9VvzQBkRFLB5EX4uokA",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Chazanga School, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.354438,
+               "lng" : 28.2807964
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.35286782010728,
+                  "lng" : 28.28207622989272
+               },
+               "southwest" : {
+                  "lat" : -15.35556747989272,
+                  "lng" : 28.27937657010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB ATM Kabanana",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJA474wz71QBkR7sHuF_LhQjc",
+         "plus_code" : {
+            "compound_code" : "J7WJ+68 Lusaka",
+            "global_code" : "5GPCJ7WJ+68"
+         },
+         "rating" : 0,
+         "reference" : "ChIJA474wz71QBkR7sHuF_LhQjc",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J858+3RP, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3922889,
+               "lng" : 28.3170653
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39083662010728,
+                  "lng" : 28.31833367989272
+               },
+               "southwest" : {
+                  "lat" : -15.39353627989272,
+                  "lng" : 28.31563402010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Finance Bank ATM",
+         "place_id" : "ChIJ5SuLSkGLQBkRkBuKizNJ2kQ",
+         "rating" : 0,
+         "reference" : "ChIJ5SuLSkGLQBkRkBuKizNJ2kQ",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J858+482, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3922356,
+               "lng" : 28.3157802
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39085752010728,
+                  "lng" : 28.31717727989272
+               },
+               "southwest" : {
+                  "lat" : -15.39355717989272,
+                  "lng" : 28.31447762010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Barclays drive-thru Arcades",
+         "place_id" : "ChIJN0IVwUaLQBkRrL1xzTzfV0k",
+         "rating" : 5,
+         "reference" : "ChIJN0IVwUaLQBkRrL1xzTzfV0k",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "MCFW+WCP, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3251623,
+               "lng" : 28.4460785
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.32401797010728,
+                  "lng" : 28.44748367989272
+               },
+               "southwest" : {
+                  "lat" : -15.32671762989272,
+                  "lng" : 28.44478402010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Barclays ATM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJv9c7hjaIQBkRxm3tkyq0zrs",
+         "rating" : 5,
+         "reference" : "ChIJv9c7hjaIQBkRxm3tkyq0zrs",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J85H+468, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3922178,
+               "lng" : 28.3280843
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39081832010728,
+                  "lng" : 28.32947502989272
+               },
+               "southwest" : {
+                  "lat" : -15.39351797989272,
+                  "lng" : 28.32677537010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Unza Zanaco ATM",
+         "place_id" : "ChIJR3nHV2mLQBkRIiax43TSEm8",
+         "rating" : 3,
+         "reference" : "ChIJR3nHV2mLQBkRIiax43TSEm8",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Salama Park Salama Park Lusaka ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3991016,
+               "lng" : 28.394166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39774627010728,
+                  "lng" : 28.39540442989272
+               },
+               "southwest" : {
+                  "lat" : -15.40044592989272,
+                  "lng" : 28.39270477010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Salama Park 12",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107690919804398354342\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECmHJn5mVHeYDKFhSEmOM8KzB8XJOXYBcIrjOsqWg8BFsDg8a4zriBIWPPU_i_nO922JPwfnZLPAA-1zjCJDVM6sPBvWOc6R-9uyQ-MngRG25ehbcxsk_7nvu7vj4wqQgZky0nAmdXZr-TK8-AlddVPr8g1BLSMDQmGcNwbajC4iEEo",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ-Xz8-Q2LQBkRR6Qrm1W5VmQ",
+         "plus_code" : {
+            "compound_code" : "J92V+9M Lusaka",
+            "global_code" : "5GPCJ92V+9M"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ-Xz8-Q2LQBkRR6Qrm1W5VmQ",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J848+XVF, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3925666,
+               "lng" : 28.3171776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.39102342010728,
+                  "lng" : 28.31876037989272
+               },
+               "southwest" : {
+                  "lat" : -15.39372307989272,
+                  "lng" : 28.31606072010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Standard Chartered Arcades",
+         "place_id" : "ChIJ_YCbS0GLQBkRwFv1gXA5iD0",
+         "rating" : 4.5,
+         "reference" : "ChIJ_YCbS0GLQBkRwFv1gXA5iD0",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "J78X+64P, Lusaka, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.3844226,
+               "lng" : 28.2978277
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.38291582010728,
+                  "lng" : 28.29916597989272
+               },
+               "southwest" : {
+                  "lat" : -15.38561547989272,
+                  "lng" : 28.29646632010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Zanaco ATM",
+         "place_id" : "ChIJ8Tcalcz0QBkRAO2VGu7F31U",
+         "rating" : 0,
+         "reference" : "ChIJ8Tcalcz0QBkRAO2VGu7F31U",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ]
