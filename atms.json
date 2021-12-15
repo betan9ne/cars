@@ -6863,5 +6863,353 @@
          "reference" : "ChIJ9zez-q-zehkRGG1UT7dlNrg",
          "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
          "user_ratings_total" : 13
+      }, {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Freedom Way Kabwe Civic Ctr Stand 1228 Central Kabwe ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -14.44103,
+               "lng" : 28.4428015
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.43967207010728,
+                  "lng" : 28.44421467989272
+               },
+               "southwest" : {
+                  "lat" : -14.44237172989272,
+                  "lng" : 28.44151502010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Kabwe 27",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103662414984169180873\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDFem7Xe91lNQI5UYXK5RzYGefA0QKCz1LBoqsVZOFwPM5Rf72TwsYtk1XXrWewg6iE_Dy3OTIkZJtAJ-XEHSFACzoCEL-6bDYCryxrNXqt-rsyX8l2jGMrkoEO3QpG5PwFh8UeV_RunGSxkRLZ828ShGFu3Q81LyVHv3VDjBnaGYEO",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJOQ0N37C7ahkRNBKTAf-dX4M",
+         "plus_code" : {
+            "compound_code" : "HC5V+H4 Kabwe",
+            "global_code" : "5GQCHC5V+H4"
+         },
+         "rating" : 0,
+         "reference" : "ChIJOQ0N37C7ahkRNBKTAf-dX4M",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "HF53+263, Kabwe, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -14.4424798,
+               "lng" : 28.4530425
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.44121767010728,
+                  "lng" : 28.45440207989272
+               },
+               "southwest" : {
+                  "lat" : -14.44391732989272,
+                  "lng" : 28.45170242010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Atlasmara ATM",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116019096637957731945\"\u003eVemula Chandrasekhar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBHVpnqghUUFnjq9wnB-_sfw3l9C7WYPUqEgiqbdQbyScfzMEKPrmZ9NhU5CttqFYo3WjJDshHeFZ0zNYuBHSrqAWPUMii7Kg2y80jh63i0AMAhpyt6t9V8QrA-PwlmPGx443xbv0a5JUzuzbwBixw49euj9yx2tMJbQ2xOKn-Szb2G",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJ9Wig2G67ahkR2viisai3rRE",
+         "rating" : 4,
+         "reference" : "ChIJ9Wig2G67ahkR2viisai3rRE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "HC5V+CX3, Kabwe, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -14.4414769,
+               "lng" : 28.4449341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.44010892010728,
+                  "lng" : 28.44619252989272
+               },
+               "southwest" : {
+                  "lat" : -14.44280857989272,
+                  "lng" : 28.44349287010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "First National Bank Kabwe",
+         "place_id" : "ChIJj-lDct66ahkRZuvQCYEYha8",
+         "rating" : 3.9,
+         "reference" : "ChIJj-lDct66ahkRZuvQCYEYha8",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Independence Ave, Kabwe, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -14.4418928,
+               "lng" : 28.4442358
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.44058987010728,
+                  "lng" : 28.44559202989272
+               },
+               "southwest" : {
+                  "lat" : -14.44328952989272,
+                  "lng" : 28.44289237010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Stanbic Bank",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111674960819028538805\"\u003eThomas muwowojnr\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEClUn2bIFwviNniTmgXY7zEH2vt9C3M_QZXIXSM-jffZw0zhp6dYtOaWPk9Z28tU5cdRbTz5lekOcmHNDRA42Cf_21DQOuwdhuHQv0wuAa7n4dXxxq47elrrd-rghjcRJUzvaSkpgIda4sStKBT4RzTfjNI_mFBYhXqD9xWDthhXbKp",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJBVliZd66ahkRg2-jSwIn6oA",
+         "plus_code" : {
+            "compound_code" : "HC5V+6M Kabwe",
+            "global_code" : "5GQCHC5V+6M"
+         },
+         "rating" : 3,
+         "reference" : "ChIJBVliZd66ahkRg2-jSwIn6oA",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Katbe Chilufya Street, Kabwe, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -14.4411584,
+               "lng" : 28.4426647
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.43967697010728,
+                  "lng" : 28.44399622989272
+               },
+               "southwest" : {
+                  "lat" : -14.44237662989272,
+                  "lng" : 28.44129657010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Barclays",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3464,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114378934254232536704\"\u003eKamlesh Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAIiCuQ0z2fTyWsD0Dh3R7u2LiFmM1L7Nt2LgPlaOSvP0FObJB6PKNStJBBWEm9AsJrOHFWPxR1M7MF5VV_qYrNCwCWGvPr-zoKTIVu3hcHQEc61YWz8tKY3G0mu6i4_2TWjuRioHGGztmkiaQziHSJRwEBRW8fvLo5DdtrcO5Xdxtv",
+               "width" : 4618
+            }
+         ],
+         "place_id" : "ChIJHXleM966ahkRVZCCIoXAtrQ",
+         "plus_code" : {
+            "compound_code" : "HC5V+G3 Kabwe",
+            "global_code" : "5GQCHC5V+G3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJHXleM966ahkRVZCCIoXAtrQ",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "HC4W+7J3, Kabwe, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -14.4443662,
+               "lng" : 28.446545
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.44303767010728,
+                  "lng" : 28.44772227989273
+               },
+               "southwest" : {
+                  "lat" : -14.44573732989272,
+                  "lng" : 28.44502262010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Investrust Bank Plc, Kabwe Branch",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJE1ETDty6ahkR6jl5gzt107k",
+         "rating" : 3,
+         "reference" : "ChIJE1ETDty6ahkR6jl5gzt107k",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "HC5V+67H, Kabwe, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -14.4419374,
+               "lng" : 28.4432429
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.44067482010728,
+                  "lng" : 28.44460462989272
+               },
+               "southwest" : {
+                  "lat" : -14.44337447989272,
+                  "lng" : 28.44190497010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Finance Bank",
+         "place_id" : "ChIJY86fT966ahkRESKVkdfgoC8",
+         "rating" : 5,
+         "reference" : "ChIJY86fT966ahkRESKVkdfgoC8",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Independence Ave, Kabwe, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -14.4420506,
+               "lng" : 28.4426259
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -14.44077112010728,
+                  "lng" : 28.44398532989272
+               },
+               "southwest" : {
+                  "lat" : -14.44347077989272,
+                  "lng" : 28.44128567010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Indo-Zambia",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJgWHuu9-6ahkRCbUwhrvUyUg",
+         "plus_code" : {
+            "compound_code" : "HC5V+53 Kabwe",
+            "global_code" : "5GQCHC5V+53"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJgWHuu9-6ahkRCbUwhrvUyUg",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kabwe Road Kapiri Mposhi Plot 1294 Central ZM, Kapiri Mposhi 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.4211911,
+               "lng" : 28.2860296
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.41980042010728,
+                  "lng" : 28.28766287989272
+               },
+               "southwest" : {
+                  "lat" : -15.42250007989272,
+                  "lng" : 28.28496322010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Kapiri Mposhi 32",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102141291932822326923\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDiuPGkVGuQSltnqkYn_nP9jNOc3fJOteUknX4zJbJESiRyU3jaBLEmGIlA3VT3Q05AAgQ6qApOreJAfpjx0mDqnlboJO7MLIzz5U8wHK-VFmu3OxKkhAKNv58UztVAeOhtB50v1fM6t55LPilr-b6fXGWSzhDzrJ0Zv1wkKF6Fh1wl",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJV_HznFTzQBkRvF27cnrnDMI",
+         "plus_code" : {
+            "compound_code" : "H7HP+GC Lusaka",
+            "global_code" : "5GPCH7HP+GC"
+         },
+         "rating" : 0,
+         "reference" : "ChIJV_HznFTzQBkRvF27cnrnDMI",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
       }
 ]
