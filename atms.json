@@ -7211,5 +7211,535 @@
          "reference" : "ChIJV_HznFTzQBkRvF27cnrnDMI",
          "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
          "user_ratings_total" : 0
+      },  {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "President Ave, Mansa, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.1977782,
+               "lng" : 28.8888315
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.19637402010728,
+                  "lng" : 28.89013662989273
+               },
+               "southwest" : {
+                  "lat" : -11.19907367989272,
+                  "lng" : 28.88743697010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Barclays ATM",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJI8pRJ7zZDBkR3Ux2VSB5KQ8",
+         "plus_code" : {
+            "compound_code" : "RV2Q+VG Mansa",
+            "global_code" : "5GWCRV2Q+VG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJI8pRJ7zZDBkR3Ux2VSB5KQ8",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Independence Ave Mansa Civic Centre Plot 257 Luapula Mansa ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.19976,
+               "lng" : 28.89431
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.19835742010728,
+                  "lng" : 28.89544192989272
+               },
+               "southwest" : {
+                  "lat" : -11.20105707989272,
+                  "lng" : 28.89274227010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Mansa 104",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118070190725881805840\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECKfbfOVg_bOCjDEyQ9ewmXrEJvnoAbFaFRutXnKX0gZkMFtAS2OKhm03SkbvMOabs6ulDvK0G72HFSbZ_czaZDyahMPSyhw05-tH2Ba7bzGxAWkF-v7fNZoDlh_hV4LtE6OPv3UUn5OZPqjpk08UCBc49Kc3AMv5iIkAWBw1Ali7HD",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJdY1WFi_ZDBkRXgFxRHg9n2U",
+         "plus_code" : {
+            "compound_code" : "RV2V+3P Mansa",
+            "global_code" : "5GWCRV2V+3P"
+         },
+         "rating" : 0,
+         "reference" : "ChIJdY1WFi_ZDBkRXgFxRHg9n2U",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "RV3R+42X, Mansa, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.1971282,
+               "lng" : 28.8901033
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.19587402010728,
+                  "lng" : 28.89145647989272
+               },
+               "southwest" : {
+                  "lat" : -11.19857367989272,
+                  "lng" : 28.88875682010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "ZANACO ATM",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104888253463720640841\"\u003eWilson S. Banda\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA1Dp7uv5H4cQ-VesJg6uZkWAymht8vuNHVqG8eMKcHbaUqNXgzFMOCpAhsqWnLfyYfzTV6xTFds_mZ6gfXzLNolK5qSRtYVNavLQA-ZJL7P69kQZd95uZlVwZPfJ3H82ycisfAfW1icHDCBwTD3rtnWtYWpebv8fBI4vtA4U30Rocz",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJK9ZbNrzZDBkRBa9F9VG2-pc",
+         "rating" : 4.5,
+         "reference" : "ChIJK9ZbNrzZDBkRBa9F9VG2-pc",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "QVXP+P46, Mansa, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.2007127,
+               "lng" : 28.8852584
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.19927197010728,
+                  "lng" : 28.88653487989272
+               },
+               "southwest" : {
+                  "lat" : -11.20197162989272,
+                  "lng" : 28.88383522010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Atlasmala ATM",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJb7VUSi7ZDBkRpiHFz_xW-y8",
+         "rating" : 4,
+         "reference" : "ChIJb7VUSi7ZDBkRpiHFz_xW-y8",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "QVXM+MXP, Mansa, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.2007934,
+               "lng" : 28.8849476
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.19940222010728,
+                  "lng" : 28.88626402989273
+               },
+               "southwest" : {
+                  "lat" : -11.20210187989272,
+                  "lng" : 28.88356437010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Finance Bank",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3864,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100024548546309812817\"\u003eDennis Chikwayi\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAyarGuTa6aM9uSjWyUC5qHDYO6rzEeVcVNeI6k8OMgnoilFT9fQ2VLOykB5WrGVFi8AEE-9df9CWqjQc7IUwRhte1685V5P45yyHomY6CJwx0m-wywol85a8qs3XUxxFXYyvlp_t9dmVQwBFhoS3DCDIQjKjr1RKJT0DR98gLT5_EI",
+               "width" : 5152
+            }
+         ],
+         "place_id" : "ChIJl-fyKrnZDBkRUaBD-KWn_K0",
+         "rating" : 4,
+         "reference" : "ChIJl-fyKrnZDBkRUaBD-KWn_K0",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "RV4Q+8H5, Mansa, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.1942275,
+               "lng" : 28.8889789
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.19281477010728,
+                  "lng" : 28.89052522989272
+               },
+               "southwest" : {
+                  "lat" : -11.19551442989272,
+                  "lng" : 28.88782557010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "ExpressCredit",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJAaFoXnrZDBkRXgqVyhffjBQ",
+         "rating" : 4.5,
+         "reference" : "ChIJAaFoXnrZDBkRXgqVyhffjBQ",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "D79, Mansa, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.1969047,
+               "lng" : 28.8899875
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.19555952010728,
+                  "lng" : 28.89115847989273
+               },
+               "southwest" : {
+                  "lat" : -11.19825917989272,
+                  "lng" : 28.88845882010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Zambia National Commercial",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2499,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114378934254232536704\"\u003eKamlesh Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEATnEvxrnXDkhdBr06XakhIelndzSUU83ndtxMQ5zhm1G4pGeC8DB-n8upFxTI3t18ZOjfvlpzGRVLpqpLUJ7_v2AcgVfHzZWK3Pt-bnjQ28HEpXuuamw-GaJTiAprDjobFsH-6ijw7NlSvAl6x_i92C-pGw3-VBJVtcnPZeuvG7VVs",
+               "width" : 4355
+            }
+         ],
+         "place_id" : "ChIJdVmfM7zZDBkR0cGNG_nPYd8",
+         "plus_code" : {
+            "compound_code" : "RV3Q+6X Mansa",
+            "global_code" : "5GWCRV3Q+6X"
+         },
+         "rating" : 3,
+         "reference" : "ChIJdVmfM7zZDBkR0cGNG_nPYd8",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "President Ave Plot 257b Luapula Mansa ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.1978079,
+               "lng" : 28.888809
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.19640012010728,
+                  "lng" : 28.89011117989273
+               },
+               "southwest" : {
+                  "lat" : -11.19909977989272,
+                  "lng" : 28.88741152010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "ABSA Bank - Mansa",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114311312000689057522\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA-cZAXFywsf1t8knh69wJEb-t1JSLaHG_VUa087soIRjI5Fqp2iohNHk_XtaCT6CpbLxhmMjDC4E_GcS2diCKUam-OGlk7xXfW6mK8Xrv64fdPXgWH-inDaHivMAbE5qTR0a_6vxmpHpiuLQxeFDxeGwXJw-Dz_CkSX47BOXZuHkon",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ72sxrpfZDBkRmoQHMXtPw1A",
+         "plus_code" : {
+            "compound_code" : "RV2Q+VG Mansa",
+            "global_code" : "5GWCRV2Q+VG"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ72sxrpfZDBkRmoQHMXtPw1A",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "RV2P+JW9, Mansa, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.1984624,
+               "lng" : 28.8873535
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.19720527010728,
+                  "lng" : 28.88877952989272
+               },
+               "southwest" : {
+                  "lat" : -11.19990492989272,
+                  "lng" : 28.88607987010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "National Savings",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114753515821115630157\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBU8mfWA6MFQuLUatMKXOmY6hxtWX0pcm8paTkMSPAhybBidrIbeHjZ93rhB2b338VyupNybcfAvZY-8wdEGjj0H1zf9af0CBcaU7yR9YdCS0nVesW5YT0p3kutj0oSQE7qFmX8ie0xDXuyHaLCbckd0CkD3V45PsxsHWXTxFpTWNCN",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJa2FKuL7ZDBkRZVyJivdPeTc",
+         "rating" : 1,
+         "reference" : "ChIJa2FKuL7ZDBkRZVyJivdPeTc",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "RV2P+CX8, Mansa, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.1989619,
+               "lng" : 28.887444
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.19753247010728,
+                  "lng" : 28.88872692989272
+               },
+               "southwest" : {
+                  "lat" : -11.20023212989272,
+                  "lng" : 28.88602727010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Bayport Financial Services",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117822833127754533922\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBnSRr8XT7n_0QJTA_6AtxmvHrX7pEoahrJVE2y7mXHIlIIzETqgSk03mUpJdr1_iZZbi6ueIOrNfnC-WDk255ZLcC4_Q9WZYk0xn_eoZhVD0tTeZGLBw7K9z98D2iXWGdbJdysPLtemHHiXwNNBDIOm7td4uwE1ULpKTPSqjGAspfO",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJfevxt77ZDBkR8E6MTIJ3L_w",
+         "rating" : 2,
+         "reference" : "ChIJfevxt77ZDBkR8E6MTIJ3L_w",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "RV2Q+7V9, Mansa, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.1993458,
+               "lng" : 28.8897444
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.19796127010728,
+                  "lng" : 28.89118447989272
+               },
+               "southwest" : {
+                  "lat" : -11.20066092989272,
+                  "lng" : 28.88848482010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Indo Zambia Bank",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110909138217952390156\"\u003eJulius Kabengele\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEA7-hKi2EW3QgBChHz9m71nOKXhsjlq1vM1vjgNU4nR61KzNOd0QEjjQvP4cGx4OGrP_MQHEmWyhaSEjINOGWoFQpT1SRnNR20LhxnGQXaQHMqbS5HYQQBEyRs_YHghMFixV-2V0ojMs0fF1ImNBPoaubPtEpT9C7wV59BOetDWn_mH",
+               "width" : 6144
+            }
+         ],
+         "place_id" : "ChIJ27U29rvZDBkRf0bD5-hIPr0",
+         "rating" : 4.3,
+         "reference" : "ChIJ27U29rvZDBkRf0bD5-hIPr0",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "RV3Q+9PG, Mansa, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.196551,
+               "lng" : 28.8893352
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.19519627010728,
+                  "lng" : 28.89082647989272
+               },
+               "southwest" : {
+                  "lat" : -11.19789592989272,
+                  "lng" : 28.88812682010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "ZNBS (Zambia National Building Society Bank)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114753515821115630157\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAJ3XfhimIWcFwXkDid9PWoVJqay8oOawgy0OC8D7jXVqxVW77Ld28qo2ZQvbpBlEWK85V6j-PZ4zVVpjEcWwcAhxVLjWDGH_rCuyV42bA-H1vuP-IkuIOnblYVtLuZdvnJhTtSbGO1W0rv0vTGONYKKWsJz6sAqgQzbB5ms4bDebsD",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ-f2CLbzZDBkRMsVmhPvEI98",
+         "rating" : 3,
+         "reference" : "ChIJ-f2CLbzZDBkRMsVmhPvEI98",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      }, {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "JHH5+P3P, Samfya, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -11.3706611,
+               "lng" : 29.5577073
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -11.36920622010728,
+                  "lng" : 29.55906062989272
+               },
+               "southwest" : {
+                  "lat" : -11.37190587989272,
+                  "lng" : 29.55636097010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+         "name" : "Atlas Mara Zambia Limited",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115129342982468124215\"\u003eGideon Kiyanamwela\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEAxn6b5keY3LsnJj6tH7dBsnSTm7Zt5S-bbPRL6xEx7dmEDa7G5nQz_8G4SE2L1ju6ZZ13Wc5o-oQzA8GgXAjgCNEW6zvq56otcHIb1Zo00lgHMl7Ket3CH0_1JOruFSdm5c9Je-tb4aQdW-cANJ6cyZGfk8VLQvOQJzdxJ8PaC_I_g",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJsUz_DgqlDRkRwxE8Ou-sWpY",
+         "rating" : 2,
+         "reference" : "ChIJsUz_DgqlDRkRwxE8Ou-sWpY",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
       }
 ]
