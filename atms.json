@@ -201,6 +201,26 @@
         "lat": -15.420944,
         "long" :28.283875,
            "location":"Lusaka"
-    }   
+    },
+    {
+        "id": 30,
+        "bank": "Stanbic",
+        "lat": -15.392329297337128,
+        "long" : 28.316263613276572,
+           "location":"Lusaka"
+    },
+    {
+        "id": 31,
+        "bank": "Stanbic",
+        "lat": -15.38259036339655, 
+        "long" : 28.354521727825375,
+           "location":"Lusaka"
+    },{
+        "id": 32,
+        "bank": "Stanbic",
+        "lat": -15.449896268767507, 
+        "long" :28.336424596414794,
+           "location":"Lusaka"
+    }  
     
   ]
