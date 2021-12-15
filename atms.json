@@ -166,5 +166,41 @@
         "lat": -15.423032,
         "long" :28.282994,
            "location":"Lusaka"
-    }    
+    },
+     {
+        "id": 25,
+        "bank": "Zanaco",
+        "lat": -15.39137,
+        "long" :28.317017,
+           "location":"Lusaka"
+    },
+    {
+        "id": 26,
+        "bank": "Zanaco",
+        "lat": -15.397666,
+        "long" :28.305252,
+           "location":"Lusaka"
+    },
+    {
+        "id": 27,
+        "bank": "Zanaco",
+        "lat": -15.405005,
+        "long" :28.294806,
+           "location":"Lusaka"
+    },
+    {
+        "id": 28,
+        "bank": "Zanaco",
+        "lat": -15.405005,
+        "long" :28.288239,
+           "location":"Lusaka"
+    },
+    {
+        "id": 29,
+        "bank": "Zanaco",
+        "lat": -15.420944,
+        "long" :28.283875,
+           "location":"Lusaka"
+    }   
+    
   ]
