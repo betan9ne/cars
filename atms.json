@@ -4454,5 +4454,425 @@
          "establishment"
       ],
       "user_ratings_total":0
-   }
+   }, {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Corner Buteko/maina Soko Avenue Ndola Copperbelt Ndola ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.9725267,
+               "lng" : 28.647024
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.97127972010728,
+                  "lng" : 28.64845502989273
+               },
+               "southwest" : {
+                  "lat" : -12.97397937989272,
+                  "lng" : 28.64575537010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Ndola 148",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113056107105427021332\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uECsi_LGXH0Esxtq7qv1BOavW1T6cqq_yVR1FBnBZ_0KaIl0cJASIw6IOzLe3orIQCApmdDJCQ67a83Ld1RcF4v9WbuvsyqwaxiAsXT2yH-YHlQtvzyIrnH9kHZXj71vwdKQm3Fd7NcggVyNQkOzfOCoxpRlf7mZBrvMj_ui1BmusvEN",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJg0MvZlG1bBkRQv1DEAWhUj4",
+         "plus_code" : {
+            "compound_code" : "2JGW+XR Ndola",
+            "global_code" : "5GVC2JGW+XR"
+         },
+         "rating" : 0,
+         "reference" : "ChIJg0MvZlG1bBkRQv1DEAWhUj4",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2J9R+H4G, Ndola, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.9810529,
+               "lng" : 28.6403184
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.97939682010728,
+                  "lng" : 28.64140662989272
+               },
+               "southwest" : {
+                  "lat" : -12.98209647989272,
+                  "lng" : 28.63870697010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "FNB ATM",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ5aFoYx21bBkRI0tTIPzSR2A",
+         "rating" : 5,
+         "reference" : "ChIJ5aFoYx21bBkRI0tTIPzSR2A",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2J9Q+H6P, Ndola, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.9810463,
+               "lng" : 28.6380626
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.97981167010728,
+                  "lng" : 28.63953377989272
+               },
+               "southwest" : {
+                  "lat" : -12.98251132989272,
+                  "lng" : 28.63683412010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Standard Chartered ATM",
+         "place_id" : "ChIJORJapdu1bBkRIqJCoT-JrBs",
+         "rating" : 1,
+         "reference" : "ChIJORJapdu1bBkRIqJCoT-JrBs",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "President Avenue Puma Filling Station Town Centre Copperbelt Ndola ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.9728806,
+               "lng" : 28.6498286
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.97166562010728,
+                  "lng" : 28.65129182989272
+               },
+               "southwest" : {
+                  "lat" : -12.97436527989272,
+                  "lng" : 28.64859217010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Pres.avenue Ndola 139",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115344708257209331407\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBWg_nPukyznUyhqqKbf737d-Ed5WM30De75QM3yQ9kT1sXk5kmnyVcc2GpV1lZe_ek6dfJcwypO7-ubERuaNPzAIIQBkpxo91uExO8GOlMrkgcZedMOWZdYGyX77xb0SOPqzGKTsgiItI0RURRYg6brj6qTXzqmHrHbE8KOaRGU4Ho",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJr0fNgeq1bBkRnqeRDXByGXo",
+         "plus_code" : {
+            "compound_code" : "2JGX+RW Ndola",
+            "global_code" : "5GVC2JGX+RW"
+         },
+         "rating" : 0,
+         "reference" : "ChIJr0fNgeq1bBkRnqeRDXByGXo",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Corner Buteko/maina Soko Avenue Ndola Copperbelt Ndola ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.9725267,
+               "lng" : 28.647024
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.97127972010728,
+                  "lng" : 28.64845502989273
+               },
+               "southwest" : {
+                  "lat" : -12.97397937989272,
+                  "lng" : 28.64575537010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Ndola 7",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103287872814906280573\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEB0PbSm1QcbzmFlgL2txMprPsBuPg8IkoC8dh2NuQ4D79Hbncgn44KTcnSeLtnZ7A1hdG2xT2PnQRDmI5Zaesh_AuG7T74kRFYET1bPg4p83DwjdZjHe8PnpvnM0wlpwc7TD6BmDXWJkPgGtihnT6PU0QXxQAfL8VRhDErgf1shkJng",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJz344vZe1bBkRBKmqS4L0oL8",
+         "plus_code" : {
+            "compound_code" : "2JGW+XR Ndola",
+            "global_code" : "5GVC2JGW+XR"
+         },
+         "rating" : 0,
+         "reference" : "ChIJz344vZe1bBkRBKmqS4L0oL8",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "XMG5+MCF, Ndola, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -13.0233085,
+               "lng" : 28.6585511
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.02184452010728,
+                  "lng" : 28.65987827989272
+               },
+               "southwest" : {
+                  "lat" : -13.02454417989272,
+                  "lng" : 28.65717862010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Standard Chartered Bank ATM",
+         "place_id" : "ChIJ3dlpp5mzbBkRCFzq0ANYZ0A",
+         "rating" : 0,
+         "reference" : "ChIJ3dlpp5mzbBkRCFzq0ANYZ0A",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ndola, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.960532,
+               "lng" : 28.6323596
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.95919482010728,
+                  "lng" : 28.63352077989272
+               },
+               "southwest" : {
+                  "lat" : -12.96189447989272,
+                  "lng" : 28.63082112010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Standard Chartered ATM",
+         "place_id" : "ChIJFdNhvem1bBkR61Zrr6K7TaY",
+         "plus_code" : {
+            "compound_code" : "2JQJ+QW Ndola",
+            "global_code" : "5GVC2JQJ+QW"
+         },
+         "rating" : 0,
+         "reference" : "ChIJFdNhvem1bBkR61Zrr6K7TaY",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Kwacha Road Puma Filling Station kansenshi Copperbelt Ndola ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.95867,
+               "lng" : 28.63659
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.95732562010728,
+                  "lng" : 28.63787027989272
+               },
+               "southwest" : {
+                  "lat" : -12.96002527989272,
+                  "lng" : 28.63517062010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Ndola Puma F.station 144",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109233660476276003450\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEDMz3eu6q9Z4diMd3ni8SD7Vdi1u30EUxiDZ6E3ApcPljWbd643VT3b_RyThi-cX-rdirCaWSXBF8Cn02BdhfwYW-4UCDemngUb0C1sx4no1oFnNVJ5XV4vd8tLIFbegTzQa2JJn22eralviJaRHcFokEaOwLqCyG8fmOHtZLoxasJ5",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJfQwZkjC1bBkRd4BXGmiLFtE",
+         "plus_code" : {
+            "compound_code" : "2JRP+GJ Ndola",
+            "global_code" : "5GVC2JRP+GJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJfQwZkjC1bBkRd4BXGmiLFtE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Broadway, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.9678097,
+               "lng" : 28.6528215
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.96644337010728,
+                  "lng" : 28.65423707989272
+               },
+               "southwest" : {
+                  "lat" : -12.96914302989272,
+                  "lng" : 28.65153742010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Finance Bank ATM",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJq8sU9iC1bBkRlxY-QZ3RlpU",
+         "plus_code" : {
+            "compound_code" : "2MJ3+V4 Ndola",
+            "global_code" : "5GVC2MJ3+V4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJq8sU9iC1bBkRlxY-QZ3RlpU",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Ndola - Lusaka Road Jacaranda Mall Ndola Copperbelt Ndola ZM, 10101, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -13.0045548,
+               "lng" : 28.6495438
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -13.00296802010728,
+                  "lng" : 28.65125232989272
+               },
+               "southwest" : {
+                  "lat" : -13.00566767989272,
+                  "lng" : 28.64855267010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Absa | Atm | Jacaranda Mall ATM 142",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110038095854812623693\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aap_uEBIDrXH5pLCxyJgpC1sBPjAllhPA_ZRct3mvqN8WXmgLzc7p1wrEIcjppepXAWVplR4kst6q6z5Bt84-nfzXd5a1Ulo-JiZFimtmxQAruwEjeqeH8_G4XwOG0kXM021rEmvBmqJQrad7cHcDGHS-ps_DktZD7W4I1AjRTJlbgEhyJn_",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJIXJDlw61bBkRkS-hRJDcLDU",
+         "plus_code" : {
+            "compound_code" : "XJWX+5R Ndola",
+            "global_code" : "5GRCXJWX+5R"
+         },
+         "rating" : 0,
+         "reference" : "ChIJIXJDlw61bBkRkS-hRJDcLDU",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2J2V+M39, Ndola, Zambia",
+         "geometry" : {
+            "location" : {
+               "lat" : -12.9983322,
+               "lng" : 28.6427455
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.99688417010728,
+                  "lng" : 28.64413522989272
+               },
+               "southwest" : {
+                  "lat" : -12.99958382989272,
+                  "lng" : 28.64143557010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/atm-71.png",
+         "icon_background_color" : "#909CE1",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/atm_pinlet",
+         "name" : "Zanaco Atm",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ10EvPJG0bBkRVNTOJob9Uuk",
+         "rating" : 3.3,
+         "reference" : "ChIJ10EvPJG0bBkRVNTOJob9Uuk",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      }
 ]
