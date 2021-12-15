@@ -3,144 +3,168 @@
         "id": 1,
     "bank": "ABSA",
     "lat": -15.390166,
-    "long" :28.322625
+    "long" :28.322625,
+    "location":"Lusaka"
     },
     {
         "id": 2,
         "bank": "ABSA",
         "lat": -15.3919820785522,
-        "long" :28.3171501159667
+        "long" :28.3171501159667,
+        "location":"Lusaka"
     },
       {
         "id": 3,
         "bank": "ABSA",
         "lat": -15.392608,
-        "long" :28.316585
+        "long" :28.316585,
+           "location":"Lusaka"
     },
       {
         "id": 4,
         "bank": "ABSA",
         "lat":-15.383508,
-        "long" :28.338499
+        "long" :28.338499,
+           "location":"Lusaka"
     },
       {
         "id": 5,
         "bank": "ABSA",
         "lat": -15.441153,
-        "long" :28.442667
+        "long" :28.442667,
+           "location":"Lusaka"
     },
       {
         "id": 6,
         "bank": "ABSA",
         "lat": -15.397007,
-        "long" :28.307304
+        "long" :28.307304,
+           "location":"Lusaka"
     },
       {
         "id": 7,
         "bank": "ABSA",
         "lat": -15.408454,
-        "long" :28.315540
+        "long" :28.315540,
+           "location":"Lusaka"
     },
       {
         "id": 8,
         "bank": "ABSA",
         "lat": -15.403307,
-        "long" :28.295051
+        "long" :28.295051,
+           "location":"Lusaka"
     },
       {
         "id": 9,
         "bank": "ABSA",
         "lat": -15.417310,
-        "long" :28.313457
+        "long" :28.313457,
+           "location":"Lusaka"
     },
       {
         "id": 10,
         "bank": "ABSA",
         "lat": -15.413582,
-        "long" :28.303120
+        "long" :28.303120,
+           "location":"Lusaka"
     },
       {
         "id":11,
         "bank": "ABSA",
         "lat": -15.418503,
-        "long" :28.310448
+        "long" :28.310448,
+           "location":"Lusaka"
     },
       {
         "id": 12,
         "bank": "ABSA",
         "lat": -15.395956,
-        "long" :28.357700
+        "long" :28.357700,
+           "location":"Lusaka"
     },
       {
         "id": 13,
         "bank": "ABSA",
         "lat": -15.416562,
-        "long" :28.301671
+        "long" :28.301671,
+           "location":"Lusaka"
     },
       {
         "id": 14,
         "bank": "ABSA",
         "lat": -15.419167,
-        "long" :28.300833
+        "long" :28.300833,
+           "location":"Lusaka"
     },
       {
         "id": 15,
         "bank": "ABSA",
         "lat": -15.414029,
-        "long" :28.285310
+        "long" :28.285310,
+           "location":"Lusaka"
     },
       {
         "id": 16,
         "bank": "ABSA",
         "lat": -15.414355,
-        "long" :28.284844
+        "long" :28.284844,
+           "location":"Lusaka"
     },
       {
         "id": 17,
         "bank": "ABSA",
         "lat": -15.428888,
-        "long" :28.342565
+        "long" :28.342565,
+           "location":"Lusaka"
     },
       {
         "id": 18,
         "bank": "ABSA",
         "lat": -15.408910,
-        "long" :28.280013
+        "long" :28.280013,
+           "location":"Lusaka"
     },
       {
         "id": 19,
         "bank": "ABSA",
         "lat": -15.432397,
-        "long" :28.305030
+        "long" :28.305030,
+           "location":"Lusaka"
     },
       {
         "id": 20,
         "bank": "ABSA",
         "lat": -15.420840,
-        "long" :28.285916
+        "long" :28.285916,
+           "location":"Lusaka"
     },
       {
         "id": 21,
         "bank": "ABSA",
         "lat": -15.424789,
-        "long" :28.288018
+        "long" :28.288018,
+           "location":"Lusaka"
     },
       {
         "id": 22,
         "bank": "ABSA",
         "lat": -15.420461,
-        "long" :28.282147
+        "long" :28.282147,
+           "location":"Lusaka"
     },
       {
         "id": 23,
         "bank": "ABSA",
         "lat": -15.420703,
-        "long" :28.282101
+        "long" :28.282101,
+           "location":"Lusaka"
     },
       {
         "id": 24,
         "bank": "ABSA",
         "lat": -15.423032,
-        "long" :28.282994
+        "long" :28.282994,
+           "location":"Lusaka"
     }    
   ]
